@@ -1,0 +1,612 @@
+greek text,english text,neutral,positive,negative,narrator,y,class
+"Τη μάνητα, θεά, τραγούδα μας του ξακουστού Αχιλλέα,",Apollo’s priest to th’ Argive fleet doth bring,0.375,0.5,0.125,0.0,"[0.375, 0.5, 0.125, 0.0]",positive
+"ανάθεμα τη, πίκρες που 'δωκε στους Αχαιούς περίσσιες","Gifts for his daughter, pris’ner to the king;",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+και πλήθος αντρειωμένες έστειλε ψυχές στον Άδη κάτω,For which her tender’d freedom he entreats;,0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+"παλικαριών, στους σκύλους ρίχνοντας να φάνε τα κορμιά τους","But, being dismiss’d with contumelious threats,",0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+και στα όρνια ολούθε —έτσι το θέλησε να γίνει τότε ο Δίας—,"At Phœbus’ hands, by vengeful pray’r, he seeks",0.5,0.125,0.375,0.0,"[0.5, 0.125, 0.375, 0.0]",neutral
+"απ᾿ τη στιγμή που πρωτοπιάστηκαν και χώρισαν οι δυο τους,",To have a plague inflicted on the Greeks.,0.375,0.125,0.5,0.0,"[0.375, 0.125, 0.5, 0.0]",negative
+του Ατρέα ο γιος ο στρατοκράτορας κι ο μέγας Αχιλλέας.,"Which had; Achilles doth a council cite,",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+Ποιος τάχα απ᾿ τους θεούς τους έσπρωξε να μπούνε σ᾿ έτοια αμάχη;,"Embold’ning Calchas, in the king’s despite;",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"Του Δία και της Λητώς τους έσπρωξεν ο γιος, που με το ρήγα",To tell the truth why they were punish’d so.,0.75,0.125,0.0,0.125,"[0.75, 0.125, 0.0, 0.125]",neutral
+χολιάζοντας κακιά εξεσήκωσεν αρρώστια και πέθαιναν,From hence their fierce and deadly strife did grow.,0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+"στρατός πολύς᾿ τι δε σεβάστηκεν ο γιος του Ατρέα το Χρύση,","For wrong in which Æacides so raves,",0.5,0.0,0.5,0.0,"[0.5, 0.0, 0.5, 0.0]",neutral
+του θεού το λειτουργό· στ᾿ Αργίτικα γοργά καράβια είχε έρθει,"That goddess Thetis, from her throne of waves",0.75,0.125,0.0,0.125,"[0.75, 0.125, 0.0, 0.125]",neutral
+"με λύτρα αρίφνητα, την κόρη του να ξαγοράσει πίσω,","Ascending heav’n, of Jove assistance won,",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+του μακροσαγιτάρη Απόλλωνα κρατώντας τα στεφάνια,"To plague the Greeks by absence of her son,",0.5,0.375,0.0,0.125,"[0.5, 0.375, 0.0, 0.125]",neutral
+"πα στο χρυσό ραβδί, και πρόσπεφτε μπρος στους Αργίτες όλους,",And make the general himself repent,0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+ξεχωριστά στους δυο πολέμαρχους υγιούς του Ατρέα γυρνώντας:,To wrong so much his army’s ornament.,0.625,0.25,0.125,0.0,"[0.625, 0.25, 0.125, 0.0]",neutral
+"« Του Ατρέα βλαστάρια κι αποδέλοιποι καλαντρειωμένοι Αργίτες,","This found by Juno, she with Jove contends;",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+σε σας οι θεοί που ζουν στον Όλυμπο να δώσουν να πατήστε,"Till Vulcan, with heav’n’s cup, the quarrel ends.",0.375,0.5,0.0,0.125,"[0.375, 0.5, 0.0, 0.125]",positive
+"του Πρίαμου το καστρί, με το καλό να γύρτε στην πατρίδα'",Alpha the prayer of Chryses sings:,0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"λυτρώστε όμως κι εμέ την κόρη μου, την ξαγορά δεχτείτε",The army’s plague: the strife of kings.,0.125,0.75,0.125,0.0,"[0.125, 0.75, 0.125, 0.0]",positive
+Οι Αργίτες οι άλλοι ευτύς με μια φωνή να σεβαστούν έκραξαν,"Achilles’ baneful wrath resound, O Goddess, that impos’d",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+κι ευλαβηθείτε τον Απόλλωνα το μακροσαγιτάρη.»,"Infinite sorrows on the Greeks, and many brave souls los’d.",0.375,0.5,0.125,0.0,"[0.375, 0.5, 0.125, 0.0]",positive
+"το λειτουργό, και τα περίλαμπρα ν᾿ αποδεχτούνε δώρα·",From breasts heroic; sent them far to that invisible cave,0.5,0.25,0.25,0.0,"[0.5, 0.25, 0.25, 0.0]",neutral
+"όμως του Ατρείδη του Αγαμέμνονα δεν άρεσε η βουλή τους,",That no light comforts; and their limbs to dogs and vultures gave;,0.25,0.125,0.625,0.0,"[0.25, 0.125, 0.625, 0.0]",negative
+"μον᾿ τον κακόδιωχνε, και του 'ριχνε βαριά φοβέρα ακόμα:",To all which Jove’s will gave effect; from whom first strife begun,0.125,0.0,0.875,0.0,"[0.125, 0.0, 0.875, 0.0]",negative
+"«Το νου σου, εγώ μη σ᾿ έβρω, γέροντα, στα βαθουλά καράβια,","Betwixt Atrides, king of men, and Thetis’ godlike son.",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+"για τώρα εδώ να κοντοστέκεσαι για να διαγέρνεις πάλε,","What god gave Eris their command, and op’d that fighting vein?",0.375,0.0,0.625,0.0,"[0.375, 0.0, 0.625, 0.0]",negative
+μη ουδέ ραβδί κι ουδέ και στέφανα του Φοίβου σε γλιτώσουν.,"Jove’s and Latona’s son: who fir’d against the king of men,",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+"Δε λευτερώνω εγώ την κόρη σου, πριν μου γεράσει πρώτα","For contumély shown his priest, infectious sickness sent",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+"στο Άργος, μακριά από την πατρίδα της, στο αρχοντικό μου μέσα,","To plague the army, and to death by troops the soldiers went.",0.25,0.0,0.75,0.0,"[0.25, 0.0, 0.75, 0.0]",negative
+"στον αργαλειό τη μέρα, ταίρι μου τη νύχτα στο κρεβάτι.","Occasion’d thus: Chryses, the priest, came to the fleet to buy,",0.25,0.0,0.75,0.0,"[0.25, 0.0, 0.75, 0.0]",negative
+"Μον᾿ τράβα, μη μου ανάβεις τα αίματα, γερός αv θες να φύγεις.»","For presents of unvalu’d price, his daughter’s liberty;",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+"Είπε, κι ο γέροντας φοβήθηκε κι υπάκουσε στο λόγο᾿",The golden sceptre and the crown of Phœbus in his hands,0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"πήρε βουβός του πολυτάραχου γιαλού τον άμμον άμμο,","Proposing; and made suit to all, but most to the commands",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"κι ως μάκρυνε, το ρήγα Απόλλωνα, της ομορφομαλλούσας","Of both th’ Atrides, who most rul’d. “Great Atreus’ sons,” said he,",0.375,0.375,0.125,0.125,"[0.375, 0.375, 0.125, 0.125]",neutral
+"Λητώς το γιο, με θέρμη ο γέροντας ν᾿ ανακαλιέται επήρε:","“And all ye well-greav’d Greeks, the gods, whose habitations be",0.5,0.25,0.125,0.125,"[0.5, 0.25, 0.125, 0.125]",neutral
+"« Επάκουσέ μου, ασημοδόξαρε, που κυβερνάς τη Χρύσα","In heav’nly houses, grace your pow’rs with Priam’s razéd town,",0.375,0.5,0.0,0.125,"[0.375, 0.5, 0.0, 0.125]",positive
+"και την τρισάγια Κίλλα, κι άσφαλτα την Τένεδο αφεντεύεις,",And grant ye happy conduct home! To win which wish’d renown,0.375,0.5,0.0,0.125,"[0.375, 0.5, 0.0, 0.125]",positive
+"Ποντικοδαίμονα, αν σου στέγασα ναό χαριτωμένο","Of Jove, by honouring his son, far-shooting Phœbus, deign",0.25,0.5,0.125,0.125,"[0.25, 0.5, 0.125, 0.125]",positive
+"κάποτε ως τώρα εγώ, για αν σου 'καψα παχιά μεριά ποτέ μου,",For these fit presents to dissolve the ransomable chain,0.375,0.375,0.25,0.0,"[0.375, 0.375, 0.25, 0.0]",neutral
+"γιδίσια για ταυρίσια, επάκουσε, και δώσε να πλερώσουν",Of my lov’d daughter’s servitude.” The Greeks entirely gave,0.375,0.375,0.25,0.0,"[0.375, 0.375, 0.25, 0.0]",neutral
+οι Δαναοί με τις σαγίτες σου τα δάκρυα που 'χω χύσει!»,"Glad acclamations, for sign that their desires would have",0.0,0.5,0.5,0.0,"[0.0, 0.5, 0.5, 0.0]",positive
+"Είπε, και την ευκή του επάκουσεν ο Απόλλωνας ο Φοίβος,","The grave priest reverenc’d, and his gifts of so much price embrac’d.",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"κι απ᾿ την κορφή του Ολύμπου εχύθηκε θυμό γεμάτος, κι είχε","The Gen’ral yet bore no such mind, but viciously disgrac’d",0.0,0.5,0.5,0.0,"[0.0, 0.5, 0.5, 0.0]",positive
+δοξάρι και κλειστό στις πλάτες του περάσει σαϊτολόγο',"With violent terms the priest, and said:—“Dotard! avoid our fleet,",0.125,0.5,0.25,0.125,"[0.125, 0.5, 0.25, 0.125]",positive
+"κι αντιβροντούσαν οι σαγίτες του στις πλάτες, μανιασμένος",Where ling’ring be not found by me; nor thy returning feet,0.0,0.5,0.5,0.0,"[0.0, 0.5, 0.5, 0.0]",positive
+καθώς τραβούσε· και κατέβαινε σαν τη νυχτιά τη μαύρη.,"Let ever visit us again; lest nor thy godhead’s crown,",0.125,0.5,0.25,0.125,"[0.125, 0.5, 0.25, 0.125]",positive
+"Κάθισε αλάργα απ᾿ τα πλεούμενα κι ευτύς σαγίτα ρίχνει,","Nor sceptre, save thee! Her thou seek’st I still will hold mine own,",0.125,0.375,0.375,0.125,"[0.125, 0.375, 0.375, 0.125]",positive
+και το ασημένιο του αντιδόνησε τρομαχτικά δοξάρι.,"Till age deflow’r her. In our court at Argos, far transferr’d",0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+"Τις μούλες πρώτα πρώτα δόξευε και τους γοργούς τους σκύλους,","From her lov’d country, she shall ply her web, and see prepar’d[1]",0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+μετά τις μυτερές του ρίχνοντας σαγίτες τους ανθρώπους,"With all fit ornaments my bed. Incense me then no more,",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+σαγίτευε᾿ κι άναβαν άπαυτα για τους νεκρούς οι φλόγες.,"But, if thou wilt be safe, be gone.” This said, the sea-beat shore,",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"Μέρες εννιά απολιόταν πάνω τους το θείο σαγιτοβόλι,","Obeying his high will, the priest trod off with haste and fear;",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+κι απά στις δέκα πια τη σύναξη συγκάλεσε ο Αχιλλέας',"And, walking silent, till he left far off his enemies’ ear,",0.375,0.625,0.0,0.0,"[0.375, 0.625, 0.0, 0.0]",positive
+"η Ήρα, η θεά η κρουσταλλοβράχιονη, τον είχε λέω φωτίσει,","Phœbus, fair hair’d Latona’s son, he stirr’d up with a vow,",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+"περίσσια που γνοιαζόταν, βλέποντας οι Αργίτες να πεθαίνουν.","To this stern purpose: “Hear, thou God that bear’st the silver bow,",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"Κι εκείνοι τότε αφού μαζώχτηκαν κι όλοι μαζί βρέθηκαν,","That Chrysa guard’st, rul’st Tenedos with strong hand, and the round",0.375,0.625,0.0,0.0,"[0.375, 0.625, 0.0, 0.0]",positive
+πήρε ο Αχιλλέας ο φτεροπόδαρος κι ορθός μιλούσε ομπρός τους:,Of Cilia most divine dost walk! O Sminthëus! if crown’d,0.25,0.625,0.0,0.125,"[0.25, 0.625, 0.0, 0.125]",positive
+"«Ατρείδη, τώρα θα γυρίσουμε λέω στην πατρίδα πίσω","With thankful off’rings thy rich fane I ever saw, or fir’d",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"με άδεια τα χέρια, αν ξεγλιτώσουμε μονάχα από το Χάρο,","Fat thighs of oxen and of goats to thee, this grace desir’d",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+καθώς η λοιμική κι ο πόλεμος μαζί μας ξεκληρίζουν.,"Vouchsafe to me: pains for my tears let these rude Greeks repay,",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"Μον᾿ έλα, κάποιον να ρωτήσουμε για λειτουργό για μάντη,","Forc’d with thy arrows.” Thus he pray’d, and Phœebus heard him pray,",0.25,0.625,0.125,0.0,"[0.25, 0.625, 0.125, 0.0]",positive
+"για ονειροκρίτη ακόμα—τ᾿ όνειρο, κι εκείνο ο Δίας το στέλνει—","And, vex’d at heart, down from the tops of steep heav’n stoop’d; his bow,",0.5,0.375,0.125,0.0,"[0.5, 0.375, 0.125, 0.0]",neutral
+"να πει, γιατί μαθές ο Απόλλωνας σε τόση οργή μας έχει;","And quiver cover’d round, his hands did on his shoulders throw;",0.25,0.25,0.375,0.125,"[0.25, 0.25, 0.375, 0.125]",negative
+"Μήνα κανένα τάμα του 'λειψε, μήνα τρανή θυσία;",And of the angry Deity the arrows as he mov’d,0.375,0.125,0.375,0.125,"[0.375, 0.125, 0.375, 0.125]",neutral
+Μπας και την κνίσα από αψεγάδιαστα γίδια κι αρνιά θελήσει,"Rattled about him. Like the night he rang’d the host, and rov’d",0.5,0.375,0.125,0.0,"[0.5, 0.375, 0.125, 0.0]",neutral
+να προσδεχτεί κι απ᾿ τα κεφάλια μας το χαλασμό να διώξει.»,(Apart the fleet set) terribly; with his hard-loosing hand,0.625,0.375,0.0,0.0,"[0.625, 0.375, 0.0, 0.0]",neutral
+"Είπε και κάθισε· του Θέστορα σηκώθη ο γιος, ο Κάλχας,","His silver bow twang’d; and his shafts did first the mules command,",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"τότε μπροστά τους, που απ᾿ τους μάντηδες ο πιο τρανός λογιόταν,",And swift hounds; then the Greeks themselves his deadly arrows shot.,0.25,0.625,0.0,0.125,"[0.25, 0.625, 0.0, 0.125]",positive
+"και όλα τα κάτεχε, μελλούμενα και τωρινά και πρώτα᾿",The fires of death went never out; nine days his shafts flew hot,0.375,0.5,0.0,0.125,"[0.375, 0.5, 0.0, 0.125]",positive
+"της Τροίας το δρόμο με την τέχνη του τη μαντική, το δώρο","About the army; and the tenth, Achilles called a court",0.375,0.5,0.0,0.125,"[0.375, 0.5, 0.0, 0.125]",positive
+"του Φοίβου Απόλλωνα, στ᾿ Αργίτικα καράβια είχε ορμηνέψει.","Of all the Greeks; heav’n’s white-arm’d Queen (who, ev’rywhere cut short,",0.25,0.625,0.125,0.0,"[0.25, 0.625, 0.125, 0.0]",positive
+και τότε μίλησε καλόγνωμος άναμεσό τους κι εϊπε:,"Beholding her lov’d Greeks, by death) suggested it; and he",0.5,0.5,0.0,0.0,"[0.5, 0.5, 0.0, 0.0]",neutral
+"« Αρχοντικέ Αχιλλέα, προστάζεις με να σας ξηγήσω τώρα .","(All met in one) arose, and said: “Atrides, now I see",0.5,0.375,0.125,0.0,"[0.5, 0.375, 0.125, 0.0]",neutral
+του ρήγα Απόλλωνα τη μάνητα του μακροσαγιτάρη.,"We must be wandering again, flight must be still our stay,",0.5,0.25,0.125,0.125,"[0.5, 0.25, 0.125, 0.125]",neutral
+"Ναι, θα μιλήσω, μα στοχάσου το και συ πιο πριν κι ορκίσου","If flight can save us now, at once sickness and battle lay",0.375,0.5,0.125,0.0,"[0.375, 0.5, 0.125, 0.0]",positive
+με λόγια και με χέρια πρόθυμα πώς θα με διαφεντέψεις.,"Such strong hand on us. Let us ask some prophet, priest, or prove",0.375,0.625,0.0,0.0,"[0.375, 0.625, 0.0, 0.0]",positive
+"Φοβάμαι, θα θυμώσω κάποιον μας, πού τους Αργίτες όλους",Some dream-interpreter (for dreams are often sent from Jove),0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+περίσσια ξεπερνά στη δύναμη και του αγρικοϋν το λόγο',Why Phœbus is so much incens’d; if unperformed vows,0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+τι αλί στον αχαμνό που τα 'βαλε τρανός μαζί του ρήγας!,"He blames in us, or hecatombs; and if these knees he bows",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"Κι αν καταπιεί μαθές τη μάνητα προσώρας και σωπάσει,","To death may yield his graves no more, but off’ring all supply",0.5,0.125,0.375,0.0,"[0.5, 0.125, 0.375, 0.0]",neutral
+"όμως καιρό κρατάει το χόλιασμα, ξεγδικιωμό ως να πάρει,","Of savours burnt from lambs and goats, avert his fervent eye,",0.375,0.25,0.375,0.0,"[0.375, 0.25, 0.375, 0.0]",neutral
+βαθιά στα φρένα᾿ τώρα λόγιασε καΐ συ αν θα με γλιτώσεις.»,"And turn his temp’rate.” Thus, he sat; and then stood up to them",0.5,0.375,0.125,0.0,"[0.5, 0.375, 0.125, 0.0]",neutral
+Τότε ο Αχιλλέας ο φτεροπόδαρος του απηλογήθη κι είπε:,"Calchas, surnam’d Thestorides, of augurs the supreme;",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"« Κουράγιο, κι άφοβα φανέρωσε τη θεία βουλή πού ξέρεις·","He knew things present, past, to come, and rul’d the equipage",0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+"τι άκου, ποτέ, μα τον Απόλλωνα, που εσύ για τους Αργίτες","Of th’ Argive fleet to Ilion, for his prophetic rage",0.5,0.375,0.0,0.125,"[0.5, 0.375, 0.0, 0.125]",neutral
+"ανακαλιέσαι, ξεδιαλύνοντας τις θείες βουλές του, Κάλχα,","Giv’n by Apollo; who, well-seen in th’ ill they felt, propos’d",0.5,0.5,0.0,0.0,"[0.5, 0.5, 0.0, 0.0]",neutral
+"ποτέ όσο ζω κι όσο τα μάτια μου τη γη θωρούν ετούτη,","This to Achilles: “Jove’s belov’d, would thy charge see disclos’d",0.25,0.625,0.125,0.0,"[0.25, 0.625, 0.125, 0.0]",positive
+κανένας Δαναός απάνω σου δε θα σηκώσει χέρι,The secret of Apollo’s wrath? then cov’nant and take oath,0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+"βαρύ στα βαθουλά καράβια μας, κι ακόμα αν νοματίσεις","To my discov’ry, that, with words and pow’rful actions both,",0.375,0.5,0.125,0.0,"[0.375, 0.5, 0.125, 0.0]",positive
+"τον Αγαμέμνονα, που πέτεται πώς είναι απ᾿ όλους πρώτος.»",Thy strength will guard the truth in me; because I well conceive,0.25,0.625,0.125,0.0,"[0.25, 0.625, 0.125, 0.0]",positive
+Κι ο άψεγος μάντης ξεθαρρεύοντας απηλογήθη τότε:,"That he whose empire governs all, whom all the Grecians give",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"« Μήτε κανένα τάμα του 'λειψε μηδέ τρανή θυσία,","Confirm’d obedience, will be mov’d; and then you know the state",0.5,0.5,0.0,0.0,"[0.5, 0.5, 0.0, 0.0]",neutral
+"χολιάζει μόνο που ο Αγαμέμνονας το Χρύση δε σεβάστη,",Of him that moves him. When a king hath once mark’d for his hate,0.375,0.125,0.5,0.0,"[0.375, 0.125, 0.5, 0.0]",negative
+κι ουδέ λευτέρωσε την κόρη του κι ουδέ τα λύτρα εδέχτη.,"A man inferior, though that day his wrath seems to digest",0.25,0.125,0.625,0.0,"[0.25, 0.125, 0.625, 0.0]",negative
+Γι᾿ αυτό με συφορές μας έδειρε και θα μας δείρει ακόμα,"Th’ offence he takes, yet evermore he rakes up in his breast",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"ο Μακρορίχτης, κι ουδ᾿ απ᾿ τ᾿ άπρεπο κακό θα μας γλιτώσει,","Brands of quick anger, till revenge hath quench’d to his desire",0.375,0.125,0.5,0.0,"[0.375, 0.125, 0.5, 0.0]",negative
+προτού την αστρομάτα δώσουμε την κορασιά στον κύρη,"The fire reservéd. Tell me, then, if, whatsoever ire",0.5,0.25,0.25,0.0,"[0.5, 0.25, 0.25, 0.0]",neutral
+"πίσω, ξαπλέρωτη, ξαγόραστη, κι ιερή στη Χρύσα πάμε","Suggests in hurt of me to him, thy valour will prevent?”",0.5,0.375,0.125,0.0,"[0.5, 0.375, 0.125, 0.0]",neutral
+"θυσία τρανή· να τον γλυκάνουμε, μπορεί ν᾿ αλλάξει γνώμη.»","Achilles answer’d: “All thou know’st speak, and be confident;",0.625,0.375,0.0,0.0,"[0.625, 0.375, 0.0, 0.0]",neutral
+"Ως είπε εκείνος τούτα, κάθισε, και τότε ασκώθη ομπρός τους","For by Apollo, Jove’s belov’d, (to whom performing vows,",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"ο πρωταφέντης Αγαμέμνονας, ο γαύρος γιος του Ατρέα,","O Calchas, for the state of Greece, thy spirit prophetic shows",0.375,0.125,0.375,0.125,"[0.375, 0.125, 0.375, 0.125]",neutral
+"χολή γεμάτος, και ξεχείλιζαν τα σκοτεινά του σπλάχνα","Skills that direct us) not a man of all these Grecians here,",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+"από το πάθος, και τα μάτια του σαν τη φωτιά ξαστράφταν.","I living, and enjoy’ng the light shot through this flow’ry sphere,",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+Στον Κάλχα πρώτα αγριοκοιτώντας τον γυρνά κι απολογιέται:,Shall touch thee with offensive hands; though Agamemnon be,0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+"« Μάντη κακέ, που λόγο πρόσχαρο δε μου 'χεις πει ποτέ σου!","The man in question, that doth boast the mightiest empery",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+Πάντα η καρδιά σου εσένα χαίρεται κακό να προφητεύει',"Of all our army.” Then took heart the prophet unreprov’d,",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+εσύ καλό μηδέ ξεστόμισες μηδ᾿ έκαμες ποτέ σου.,"And said: “They are not unpaid vows, nor hecatombs, that mov’d",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+Έτσι και τώρα ξεδιαλύνοντας τις θείες βουλές φωνάζεις,The God against us; his offence is for his priest impair’d,0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"μπρος στους Αργίτες πως τα πάθη τους τα στέλνει ο Μακρορίχτης,","By Agamemnon, that refus’d the present he preferr’d,",0.375,0.0,0.625,0.0,"[0.375, 0.0, 0.625, 0.0]",negative
+γιατί το πλούσιο εγώ ξαντίμεμα της κόρης απ᾿ τη Χρύσα,And kept his daughter. This is cause why heav’n’s Far-darter darts,0.5,0.125,0.375,0.0,"[0.5, 0.125, 0.375, 0.0]",neutral
+"δεν εστρεξα, μονάχα θέλησα να την κρατώ κοντά μου·",These plagues amongst us; and this still will empty in our hearts,0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"τι κι απ᾿ την ίδια τη γυναίκα μου, την Κλυταιμήστρα, κάλλιο","His deathful quiver, uncontain’d till to her lovéd sire",0.25,0.125,0.625,0.0,"[0.25, 0.125, 0.625, 0.0]",negative
+μου αρέσει αλήθεια᾿ τι χειρότερη δεν είναι τούτη μήτε,The black-eyed damsel be resign’d; no rédemptory hire,0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+στην ελικιά μηδέ στο ανάριμμα μηδέ στο νου ή στα χέρια.,"Took for her freedom,-not a gift, but all the ransom quit,",0.25,0.125,0.625,0.0,"[0.25, 0.125, 0.625, 0.0]",negative
+"Κι όμως, αν πρέπει, παίρνω απόφαση και τήνε δίνω πίσω'","And she convey’d, with sacrifice, till her enfranchis’d feet",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"να μην αφανιστεί το ασκέρι μας, να μείνει ακέριο θέλω.","Tread Chrysa under; then the God, so pleas’d, perhaps we may",0.0,0.625,0.375,0.0,"[0.0, 0.625, 0.375, 0.0]",positive
+Μα γι᾿ άλλο αρχοντομοίρι γρήγορα γνοιαστείτε᾿ δεν ταιριάζει,"Move to remission.” Thus, he sate; and up, the great in sway,",0.375,0.125,0.5,0.0,"[0.375, 0.125, 0.5, 0.0]",negative
+δίχως μοιράδι τώρα απ᾿ όλους μας να μένω εγώ μονάχα',"Heroic Agamemnon rose, eagérly bearing all;",0.25,0.0,0.75,0.0,"[0.25, 0.0, 0.75, 0.0]",negative
+"τι φεύγει αλλού το αρχοντομοίρι μου, το βλέπετε κι ατοί σας.»",His mind’s seat overcast with fumes; an anger general,0.375,0.0,0.625,0.0,"[0.375, 0.0, 0.625, 0.0]",negative
+Τότε ο Αχιλλέας ο γοργοπόδαρος του απηλογήθη κι είπε:,"Fill’d all his faculties; his eyes sparkled like kindling fire,",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"«Υγιέ του Ατρέα τρανέ κι απ᾿ όλους μας ο πιο συφερτολόγος,","Which sternly cast upon the priest, thus vented he his ire:",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+και πώς οι Αργίτες οι τρανόψυχοι να βρουν αρχοντομοίρι,“Prophet of ill! for never good came from thee towards me,0.375,0.375,0.25,0.0,"[0.375, 0.375, 0.25, 0.0]",neutral
+"να σου το δώσουν; Βιος αμοίραστο δεν έχουμε, όσο ξέρω'",Not to a word’s worth; evermore thou took’st delight to be,0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+"τι όσα απ᾿ τα κάστρα διαγουμίσαμε, τα μοιραστήκαμε όλα,","Offensive in thy auguries, which thou continu’st still,",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+κι ούτε θα ταίριαζε το ασκέρι μας να τα μαζέψει πάλε.,"Now casting thy prophetic gall, and vouching all our ill,",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+"Μα τώρα τούτη εσύ λευτέρωσε για του θεού τη χάρη,","Shot from Apollo, is impos’d since I refus’d the price",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"κι εμείς διπλά να σε ξοφλήσουμε και τρίδιπλα, αν μια μέρα",Of fair Chryseis’ liberty; which would in no worth rise,0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+μας δώσει ο Δίας η καλοτείχιστη να γίνει Τροία δική μας.»,"To my rate of herself, which moves my vows to have her home,",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+Μα ο πρωταφέντης Αγαμέμνονας γυρνώντας του άποκρίθη:,"Past Clytemnestra loving her, that grac’d my nuptial room",0.375,0.25,0.125,0.25,"[0.375, 0.25, 0.125, 0.25]",neutral
+"«Παλικαριά, Αχιλλέα θεόμορφε, τρανή κι αν έχεις, όχι,",With her virginity and flow’r. Nor ask her merits less,0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+δε με γελάς κι ουδέ πλανεύουμαι κι ουδέ μου αλλάζεις γνώμη.,"For person, disposition, wit, and skill in housewif’ries.",0.125,0.0,0.875,0.0,"[0.125, 0.0, 0.875, 0.0]",negative
+Να 'χεις εσύ το αρχοντομοίρι σου κι εγώ να μένω θέλεις,"And yet, for all this, she shall go, if more conducible",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"με ολάδεια χέρια, κι ορμηνεύεις με να δώσω ετούτη πίσω;",That course be than her holding here. I rather wish the weal,0.125,0.0,0.875,0.0,"[0.125, 0.0, 0.875, 0.0]",negative
+"Τώρα αν οι Αργίτες οι τρανόψυχοι καινούργιο αρχοντομοίρι,",Of my lov’d army than the death. Provide yet instantly,0.25,0.125,0.5,0.125,"[0.25, 0.125, 0.5, 0.125]",negative
+"της αρεσκιάς μου, μου ξεδιάλεγαν, να σοζυγιάζει το άλλο...","Supply for her, that I alone of all our royalty",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"Μ᾿ αν δε μου δώσουνε μονάχοι τους μοιράδι, θα 'ρθω ατός μου",Lose not my winnings. ’Tis not fit. Ye see all I lose mine,0.125,0.0,0.875,0.0,"[0.125, 0.0, 0.875, 0.0]",negative
+για το δικό σου για και του Αίαντα για του Οδυσσέα να πάρω',"Forc’d by another, see as well some other may resign",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"κι όποιος με ιδεί μπροστά του, σίγουρα βαρύ πολύ θα του 'ρθει!","His prise to me.” To this replied the swift-foot, god-like, son",0.125,0.0,0.875,0.0,"[0.125, 0.0, 0.875, 0.0]",negative
+"Όμως για τούτα δε βιαζόμαστε, τα ξαναλέμε᾿ τώρα","Of Thetis, thus: “King of us all, in all ambition",0.5,0.125,0.375,0.0,"[0.5, 0.125, 0.375, 0.0]",neutral
+"μαύρο στην άγια, ελάτε, θάλασσα να ρίξουμε καράβι,","Most covetous of all that breathe, why should the great-soul’d Greeks",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"και κουπολάτες να μαζώξουμε ξεδιαλεχτούς, κι ακόμα",Supply thy lost prise out of theirs? Nor what thy av’rice seeks,0.375,0.25,0.375,0.0,"[0.375, 0.25, 0.375, 0.0]",neutral
+μέσα τρανή θυσία να βάλουμε᾿ κι ας ανεβεί κι ατή της,Our common treasury can find; so little it doth guard,0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"η Χρυσοπούλα η ροδομάγουλη, κι απ᾿ τους ρηγάδες ένας","Of what our ras’d towns yielded us; of all which most is shar’d,",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"για ο Ιδομενέας για κι ο Αίας κύβερνος για κι ο Οδυσσέας ας γένει,",And giv’n our soldiers; which again to take into our hands,0.375,0.0,0.625,0.0,"[0.375, 0.0, 0.625, 0.0]",negative
+"για, αν θες, κι εσύ, Αχιλλέα, ν᾿ ανέβαινες, που τρέμει ο κόσμος όλος'","Were ignominious and base. Now then, since God commands,",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+μπορεί με τις θυσίες να μέρωνες το Μακροσαγιτάρη.»,Part with thy most-lov’d prise to him; not any one of us,0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+Κι είπε ο Αχιλλέας ο γοργοπόδαρος ταυροκοιτάζοντάς τον:,"Exacts it of thee, yet we all, all loss thou suffer’st thus,",0.375,0.25,0.375,0.0,"[0.375, 0.25, 0.375, 0.0]",neutral
+"«Ωχού μου, από κορφής ξαδιάντροπε και συφεροντονούση!","Will treble, quadruple, in gain, when Jupiter bestows",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+Αργίτης πως κανείς στο λόγο σου με προθυμία ν᾿ ακούσει,The sack of well-wall’d Troy on us; which by his word he owes.”,0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"και να κινήσει, για στον πόλεμο να βγει παλικαρίσια;","“Do not deceive yourself with wit,” he answer’d, “god-like man,",0.25,0.375,0.25,0.125,"[0.25, 0.375, 0.25, 0.125]",positive
+"Δεν τα 'χω εγώ με τους αντρόψυχους τους Τρώες αλήθεια, που 'ρθα",Though your good name may colour it; ’tis not your swift foot can,0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+να πολεμήσω εδώ᾿ σε τίποτα δε μου 'φταιξαν εμένα',"Outrun me here; nor shall the gloss, set on it with the God,",0.125,0.75,0.125,0.0,"[0.125, 0.75, 0.125, 0.0]",positive
+"δε μου άρπαξαν ποτέ τα βόδια μου κι ουδέ τ᾿ αλόγατά μου,",Persuade me to my wrong. Wouldst thou maintain in sure abode,0.125,0.75,0.125,0.0,"[0.125, 0.75, 0.125, 0.0]",positive
+"κι ουδέ στη Φθία την παχιοχώματη, την ανθρωποθροφούσα,","Thine own prise, and slight me of mine? Resolve this: if our friends,",0.125,0.5,0.25,0.125,"[0.125, 0.5, 0.25, 0.125]",positive
+"ποτέ τους τα σπαρτά μου ερήμαξαν, τι πλήθια ανάμεσα μας","As fits in equity my worth, will right me with amends,",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+βουνά βρίσκονται μακρογίσκιωτα και θάλασσα όλο λάλο.,"So rest it; otherwise, myself will enter personally",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"Μον 'σένα, αδιάντροπε, άκλουθήξαμε, να χαίρεται η καρδιά σου,","On thy prise, that of Ithacus, or Ajax, for supply;",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"που του Μενέλαου διαφεντεύουμε και τη δικιά σου, σκύλε,","Let him on whom I enter rage. But come, we’ll order these",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"τιμή. Μα εσύ γι'αυτά δε γνοιάζεσαι, δεν τα ψηφάς, κι ατός σου","Hereafter, and in other place. Now put to sacred seas",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"πίσω να πάρεις το μοιράδι μου με φοβερίζεις τώρα,","Our black sail; in it rowers put, in it fit sacrifice;",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+που οι Αργίτες μου 'δωκαν και μόχτησα βαριά να το κερδέψω.,"And to these I will make ascend my so much envied prise,",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+"Ποτέ δεν είν᾿ τοό αρχοντομοίρι μου σαν το δικό σου, σύντας","Bright-cheek’d Chryseis. For conduct of all which, we must choose",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+κάποιο πολύψυχο πατήσουμε των Τρωών οι Αργίτες κάστρο',"A chief out of our counsellors. Thy service we must use,",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+μα η πιο βαριά του πολυτάραχου πολέμου μπόρα πέφτει,"Idomenëus; Ajax, thine; or thine, wise Ithacus;",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"στα χέρια ετούτα, κι όταν υστέρα στη μοιρασιά βρεθούμε,","Or thine, thou terriblest of men, thou son of Peleüs,",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"πάντα δικό σου το τρανότερο, κι εγώ στα πλοία διαγέρνω","Which fittest were, that thou might’st see these holy acts perform’d",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"μικρό κρατώντας, μα καλόδεχτο, σα ρέψω πια απ᾿ τη μάχη.","For which thy cunning zeal so pleads; and he, whose bow thus storm’d",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+Τώρα στη Φθία θα πάω᾿ καλύτερα χίλιες φορές αλήθεια,"For our offences, may be calm’d.” Achilles, with a frown,",0.0,0.75,0.25,0.0,"[0.0, 0.75, 0.25, 0.0]",positive
+"να γύρω σπίτι μου με τ᾿ άρμενα, κι ουδέ στο νου μου το 'χω",Thus answer’d: “O thou impudent! of no good but thine own,0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+"αψήφιστος να μένω εδώ, αγαθά και βιος να σου σωριάζω.»","Ever respectful, but of that with all craft covetous,",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+Κι ο πρωταφέντης Αγαμέμνονας του απηλογήθη τότε:,"With what heart can a man attempt a service dangerous,",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"«Και δε μισεύεις πίσω, αν σ᾿ έπιασε του μισεμού λαχτάρα!","Or at thy voice be spirited to fly upon a foe,",0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+"Δε σου προσπέφτω εγώ, για χάρη μου να μείνεις᾿ έχω κι άλλους","Thy mind thus wretched? For myself, I was not injur’d so",0.0,0.125,0.75,0.125,"[0.0, 0.125, 0.75, 0.125]",negative
+"να με τιμήσουν, το βαθύγνωμο το Δία πιο πάνω απ᾿ όλους.","By any Trojan, that my pow’rs should bid them any blows;",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"Εσένα πιο βαριά σε οχτρεύομαι μες στους τρανούς ρηγάδες,","In nothing bear they blame of me; Phthia, whose bosom flows",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+"τι πάντα πόλεμοι σου αρέσουνε, συνερισιές κι αμάχες'","With corn and people, never felt impair of her increase",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"και λέω, κι αν είσαι τόσο αντρόκαρδος, από θεού 'ναι δώρο.","By their invasion; hills enow, and far-resounding seas,",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"Τράβα στον τόπο σου με τ᾿ άρμενα και τους συντρόφους σου όλους,","Pour out their shades and deeps between; but thee, thou frontless man,",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"κι εκεί στους Μυρμιδόνες όριζε᾿ δε σε ψηφώ καθόλου,","We follow, and thy triumphs make with bonfires of our bane;",0.25,0.125,0.5,0.125,"[0.25, 0.125, 0.5, 0.125]",negative
+"κι ούτε με νοιάζει που μου θύμωσες, μόν᾿ τή φοβέρα μου άκου:","Thine, and thy brother’s, vengeance sought, thou dog’s eyes, of  this Troy",0.25,0.0,0.75,0.0,"[0.25, 0.0, 0.75, 0.0]",negative
+Όπως μου παίρνει πίσω ο Απόλλωνας τη Χρυσοπούλα τώρα,By our expos’d lives; whose deserts thou neither dost employ,0.125,0.0,0.875,0.0,"[0.125, 0.0, 0.875, 0.0]",negative
+"και θα τη στείλω εγώ με ανθρώπους μου και με άρμενο δικό μου,","With honour nor with care. And now, thou threat’st to force from me",0.125,0.0,0.75,0.125,"[0.125, 0.0, 0.75, 0.125]",negative
+"όμοια κι εγώ τη ροδομάγουλη τη Βρισοπούλα ατός μου,","The fruit of my sweat, which the Greeks gave all; and though it be,",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"το μερτικό σου, στην καλύβα σου θα 'ρθω να πάρω, πόσο","Compar’d with thy part, then snatch’d up, nothing; nor ever is",0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+"να μάθεις στέκω εγώ πιο πάνω σου, και να φοβάται κι άλλος","At any sack’d town; but of fight, the fetcher in of this,",0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+"να μου μιλάει σαν ίσιος κι όμοιος μου, σύντας βρεθεί μπροστά μου.»",My hands have most share; in whose toils when I have emptied me,0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+"Έτσι είπε, κι ο Αχιλλέας συχύστηκε᾿ στα δασωμένα στήθια","Of all my forces, my amends in liberality,",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"διχόγνωμη η καρδιά του εδούλευε, κι αναρωτιόταν, τάχα","Though it be little, I accept, and turn pleas’d to my tent;",0.0,0.375,0.5,0.125,"[0.0, 0.375, 0.5, 0.125]",negative
+"το κοφτερό σπαθί που εκρέμουνταν πλάι στο μερί να σύρει,",And yet that little thou esteem’st too great a continent,0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+"κι ως διασκορπίσει όλη τη σύναξη, το γιο του Ατρέα να σφάξει,",In thy incontinent avarice. For Phthia therefore now,0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+για να μερώσει το άγριο πάθος του και το θυμό να πνίξει;,"My course is; since ’tis better far, than here t’ endure that thou",0.0,0.375,0.5,0.125,"[0.0, 0.375, 0.5, 0.125]",negative
+Κι ως τούτα ανάδευε στα φρένα του βαθιά και στην καρδιά του,"Should’st still be ravishing my right, draw my whole treasure dry,",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+"και το τρανό σπαθί του ανάσερνε, να τη η Αθηνά απ᾿ τα ουράνια'","And add dishonour.” He replied: “If thy heart serve thee, fly;",0.0,0.5,0.5,0.0,"[0.0, 0.5, 0.5, 0.0]",positive
+"η Ήρα μαθές η κρουσταλλόχερη την είχε ξαποστείλει,",Stay not for my cause; others here will aid and honour me;,0.25,0.5,0.125,0.125,"[0.25, 0.5, 0.125, 0.125]",positive
+που και τους δυο παρόμοια νοιάζουνταν κι ίδια τους είχε αγάπη.,"If not, yet Jove I know is sure; that counsellor is he",0.125,0.75,0.125,0.0,"[0.125, 0.75, 0.125, 0.0]",positive
+Πίσω του εστάθη και τον άρπαξεν απ᾿ τα ξανθά μαλλιά του',"That I depend on. As for thee, of all our Jove-kept kings",0.0,0.5,0.5,0.0,"[0.0, 0.5, 0.5, 0.0]",positive
+"άλλος κανείς δεν την ξεχώριζε, μόνο ο Αχιλλέας μπορούσε.","Thou still art most my enemy; strifes, battles, bloody things,",0.375,0.5,0.125,0.0,"[0.375, 0.5, 0.125, 0.0]",positive
+"Σάστισε αυτός, τα πίσω στράφηκε, κι ευτύς αναγνωρίζει","Make thy blood-feasts still. But if strength, that these moods build upon,",0.0,0.625,0.25,0.125,"[0.0, 0.625, 0.25, 0.125]",positive
+την Αθηνά Παλλάδα—κι άστραφταν φριχτά τα δυο της μάτια—,"Flow in thy nerves, God gave thee it; and so ’tis not thine own,",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+και κράζοντας τη με ανεμάρπαστα της συντυχαίνει λόγια:,But in his hands still. What then lifts thy pride in this so high?,0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"« Τέκνο του Δία του βροντοσκούταρου, γιατί ήρθες τώρα πάλε;","Home with thy fleet, and Myrmidons; use there their empery;",0.125,0.5,0.25,0.125,"[0.125, 0.5, 0.25, 0.125]",positive
+"Για τον υγιό του Ατρέα μην έτρεξες, να δεις την ξιπασιά του;","Command not here. I weigh thee not, nor mean to magnify",0.125,0.25,0.5,0.125,"[0.125, 0.25, 0.5, 0.125]",negative
+"Εγώ ένα λόγο ωστόσο θα 'λεγα, που θα γενεί, λογιάζω:","Thy rough-hewn rages, but, instead, I thus far threaten thee:",0.375,0.375,0.25,0.0,"[0.375, 0.375, 0.25, 0.0]",neutral
+με τ᾿ άπρεπα του αυτά καμώματα θα γοργοθανατίσει.»,"Since Phœbus needs will force from me Chryseis, she shall go;",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"Τότε η Αθηνά, η θεά η γλαυκόματη, του απηλογήθη κι είπε:",My ships and friends shall waft her home; but I will imitate so,0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+"«Ήρθα να πάψω εγώ την όργητα που σε κρατεί, αν μ᾿ ακούσεις,","His pleasure, that mine own shall take, in person, from thy tent",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+"σταλμένη απ᾿ την κρουσταλλοβράχιονη την Ήρα από τα ουράνια,",Bright-cheek’d Briseis; and so tell thy strength how eminent,0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+που και τους δυο σας ίδια νοιάζεται κι ίδια σας έχει αγάπη.,"My pow’r is, being compar’d with thine; all other making fear",0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+"Μον᾿ έλα, σκόλνα τα μαλώματα και το σπαθί μη σέρνεις᾿","To vaunt equality with me, or in this proud kind bear",0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+"με λόγια ωστόσο, αν θέλεις, βρίσε τον, κι όπου σε βγάλει η γλώσσα!","Their beards against me.” Thetis’ son at this stood vex’d, his heart",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+"Κι εγώ ένα λόγο τώρα θα 'λεγα, που σίγουρα θα γένει:","Bristled his bosom, and two ways drew his discursive part;",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+τρίδιπλα τόσα δώρα ατίμητα μια μέρα θα σου δώσουν,"If, from his thigh his sharp sword drawn, he should make room about",0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+"γι᾿ αυτό το ντρόπιασμα, μόν᾿ άκου μας και το θυμό σου κράτα.»","Atrides’ person, slaught’ring him, or sit his anger out,",0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+Τότε ο Αχιλλέας ο φτεροπόδαρος απηλογιά της δίνει:,"And curb his spirit. While these thoughts striv’d in his blood and mind,",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+"«Δεν πρέπει αλήθεια την ορμήνια σας, θεά, να παρακούσω,","And he his sword drew, down from heav’n Athenia stoop’d, and shin’d",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+κι ας πνίγει η οργή βαθιά τα σπλάχνα μου᾿ το πιο συφέρο αυτό 'ναι.,"About his temples, being sent by th’ ivory-wristed Queen,",0.0,0.625,0.375,0.0,"[0.0, 0.625, 0.375, 0.0]",positive
+"Που τους θεούς γρικάει, με προθυμία τον συνακούν κι εκείνοι.»","Saturnia, who out of her heart had ever loving been,",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+"Είπε, και το τρανό ξανάσπρωξε σπαθί του στο θηκάρι,","And careful for the good of both. She stood behind, and took",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"στη βαριά φούχτα το χερόλαβο κρατώντας το ασημένιο,","Achilles by the yellow curls, and only gave her look",0.25,0.5,0.125,0.125,"[0.25, 0.5, 0.125, 0.125]",positive
+στης Αθηνάς τα λόγια ακούγοντας᾿ κι εκείνη στο παλάτι,To him appearance; not a man of all the rest could see.,0.375,0.5,0.0,0.125,"[0.375, 0.5, 0.0, 0.125]",positive
+"πετάει και πάει του Δία, στον Όλυμπο, με τους θεούς τους άλλους.","He turning back his eye, amaze strook every faculty;",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+"Ωστόσο το θυμό δε σκόλαζε τότε ο Αχιλλέας, μόν᾿ πήρε","Yet straight he knew her by her eyes, so terrible they were,",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+φαρμακεμένα λόγια κι έλεγε στο γιο του Ατρέα γυρνώντας:,"Sparkling with ardour, and thus spake: “Thou seed of Jupiter,",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"«Μεθύστακα, με μάτια εσύ σκυλιού και με καρδιά αλαφίνας!","Why com’st thou? To behold his pride, that boasts our empery?",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+Πότε η καρδιά σου εσένα βάστηξε ν᾿ αρματωθείς και να 'βγεις,"Then witness with it my revenge, and see that insolence die",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+με τα φουσάτα μας στον πόλεμο; Πότε να πας να στήσεις,That lives to wrong me.” She replied: “I come from heav’n to see,0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+καρτέρι με τους πιο αντρειωμένους μας; το τρέμεις σαν το Χάρο!,"Thy anger settled, if thy soul will use her sov’reignty",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"Αλήθεια, πιο καλά στ᾿ απλόχωρα των Αχαιών λημέρια","In fit reflection. I am sent from Juno, whose affects",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+όποιου μιλήσει αντρίκεια αντίκρυ σου ν᾿ αρπάζεις το μοιράδι!,"Stand heartily inclin’d to both. Come, give us both respects,",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"Χαρά στο λαοφαγά τον άρχοντα, πού ορίζει τιποτένιους!","And cease contention; draw no sword; use words, and such as may",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"Αλλιώς, Ατρείδη, λέω δε θα 'σωνες άλλη αδικία να κάνεις.","Be bitter to his pride, but just; for, trust in what I say,",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"Μ᾿ άκου τα λόγια μου, πού απάνω τους όρκο τρανό θα ομώσω:","A time shall come, when, thrice the worth of that he forceth now,",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+Μα τούτο το ραβδί—σ᾿ τ᾿ ορκίζομαι—που φύλλα πια και κλωνιά,He shall propose for recompense of these wrongs; therefore throw,0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"δε θα πετάξει, αφού παράτησε στο λόγγο τον κορμό του,","Reins on thy passions, and serve us.” He answer’d “Though my heart",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"κι ουδέ θ᾿ ανοίξει πια, τι ολόγυρα του 'χει ο χαλκός θερίσει","Burn in just anger, yet my soul must conquer th’ angry part,",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"φύλλα και φλούδα, και στα χέρια τους οι Αργίτες κρισολόγοι","And yield you conquest. Who subdues his earthly part for heav’n,",0.375,0.375,0.25,0.0,"[0.375, 0.375, 0.25, 0.0]",neutral
+"τώρα το σφίγγουν διαφεντεύοντας τη δικαιοσύνη πάντα,","Heav’n to his pray’rs subdues his wish.” This said, her charge was given",0.25,0.625,0.125,0.0,"[0.25, 0.625, 0.125, 0.0]",positive
+ως το 'χει ορίσει ο Δίας—τον άκουσες τον όρκο τον τρανό μου!,"Fit honour; in his silver hilt he held his able hand,",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+Θα 'ρθεί καιρός αλήθεια που όλοι τους θ᾿ αποζητούν οι Αργίτες,And forc’d his broad sword up; and up to heav’n did re-ascend,0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+"τον Αχιλλέα, και τότε μ᾿ όλο σου δε θα μπορείς τον πόνο","Minerva, who, in Jove’s high roof that bears the rough shield, took",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"να τους συντρέξεις, απ᾿ τον Έχτορα καθώς τον αντροφόνο","Her place with other deities. She gone, again forsook",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+νεκροί θα πέφτουν και θα σκίζεται τότε η καρδιά σου εσένα,"Patience his passion, and no more his silence could confine",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"απ᾿ τον καημό, που παραψήφησες των Αχαιών τον πρώτο.»","His wrath, that this broad language gave: “Thou ever steep’d in wine,",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"Είπε ο Αχιλλέας, και σφεντονίζοντας στο χώμα το ραβδί του,","Dog’s face, with heart but of a hart, that nor in th’ open eye",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"το πλουμισμένο με χρυσόκαρφα, στη θέση του διαγέρνει.","Of fight dar’st thrust into a prease, nor with our noblest lie",0.375,0.375,0.125,0.125,"[0.375, 0.375, 0.125, 0.125]",neutral
+Χώρια κι ο γιος του Ατρέα ξεφρένιαζε. Πετάχτη τότε ομπρός τους,In secret ambush! These works seem too full of death for thee;,0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"ο Νέστορας, ο γλυκομίλητος αγορητής της Πύλος,",’Tis safer far in the open host to dare an injury,0.375,0.625,0.0,0.0,"[0.375, 0.625, 0.0, 0.0]",positive
+που πιο γλυκά άπ᾿ το μέλι ανάβρυζαν τα λόγια του απ᾿ το στόμα.,To any crosser of thy lust. Thou subject-eating king!,0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+Δυο είχαν ιδεί τα μάτια του γενιές ως τώρα να πεθαίνουν,"Base spirits thou govern’st, or this wrong had been the last foul thing",0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+"θνητών ανθρώπων, πού γεννήθηκαν και τράνεψαν πιο πρώτα","Thou ever author’dst; yet I vow, and by a great oath swear,",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+"στην άγια Πύλο, και βασίλευε πια στη γενιά την τρίτη.","Ev’n by this sceptre, that, as this never again shall bear[2]",0.5,0.375,0.125,0.0,"[0.5, 0.375, 0.125, 0.0]",neutral
+και τότε μίλησε καλόγνωμος αναμεσό τους κι είπε:,"Green leaves or branches, nor increase with any growth his size,",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+"« Ώχού, τρανό κακό που πλάκωσε των Αχαιών τη χώρα!","Nor did since first it left the hills, and had his faculties",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"Ο Πρίαμος πόσο θ᾿ αναγάλλιαζε κι οι γιοι του Πριάμου τώρα,",And ornaments bereft with iron; which now to other end,0.125,0.5,0.25,0.125,"[0.125, 0.5, 0.25, 0.125]",positive
+"πόσο βαθιά κ᾿ οι Τρώες οι επίλοιποι θα χαίρουνταν αλήθεια,","Judges of Greece bear, and their laws, receiv’d from Jove, defend;",0.125,0.375,0.375,0.125,"[0.125, 0.375, 0.375, 0.125]",positive
+"τούτα για σας τους δυο να μάθαιναν, πώς αρπαχτήκατε έτσι,","(For which my oath to thee is great); so, whensoever need",0.125,0.25,0.5,0.125,"[0.125, 0.25, 0.5, 0.125]",negative
+"οι πρώτοι Αργίτες, και στη φρόνεψη και στο κοντάρι οι πρώτοι.","Shall burn with thirst of me thy host, no pray’rs shall ever breed",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+Μα τώρα ακουστέ μου! Τα χρόνια μου κανένας σας δεν τα 'χει.,"Affection in me to their aid, though well-deserved woes",0.25,0.625,0.125,0.0,"[0.25, 0.625, 0.125, 0.0]",positive
+Εγώ είχα σμίξει με άντρες κάποτε πολύ τρανότερούς σας,"Afflict thee for them, when to death man-slaught’ring Hector throws",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+"—χρόνια παλιά—κι αυτοί τα λόγια μου δεν τ᾿ αψηφούσαν, όχι.","Whole troops of them, and thou torment’st thy vex’d mind with conceit",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"Άντρες παρόμοιους δεν αντάμωσα κι ουδέ και θ᾿ ανταμώσω,","Of thy rude rage now, and his wrong that most deserv’d the right",0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+"σαν τον Πειρίθο ή τον Πολύφημο, που ίδια θεός λογιόταν,","Of all thy army.” Thus, he threw his sceptre ’gainst the ground,",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+"σαν τον Εξάδιο, σαν το Δρύαντα, σαν τον Καινέα το ρήγα,","With golden studs stuck, and took seat. Atrides’ breast was drown’d",0.5,0.5,0.0,0.0,"[0.5, 0.5, 0.0, 0.0]",neutral
+"σαν το Θησέα, στην όψη που 'μοιαζε θεός, το γιο του Αιγέα.","In rising choler. Up to both sweet-spoken Nestor stood,",0.375,0.625,0.0,0.0,"[0.375, 0.625, 0.0, 0.0]",positive
+"Πολλά αντρειωμένοι εκείνοι εστάθηκαν στης γης τους άντρες μέσα,","The cunning Pylian orator, whose tongue pour’d forth a flood",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"πολλά αντρειωμένοι, και πολέμησαν και με πολλά αντρειωμένους'",Of more-than-honey-sweet discourse; two ages were increas’d,0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+με του βουνού τους δράκους τα 'βαλαν και τους χάλασαν όλους.,"Of divers-languag’d men, all born in his time and deceas’d,",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"Μ᾿ αυτούς εγώ συναπαντήθηκα, φτασμένος απ᾿ την Πύλο,","In sacred Pylos, where he reign’d amongst the third-ag’d men",0.5,0.5,0.0,0.0,"[0.5, 0.5, 0.0, 0.0]",neutral
+"πέρα, από τόπο αλαργοτάξιδο᾿ τι ατοί τους με κάλεσαν,","He, well-seen in the world, advis’d, and thus express’d it then:",0.75,0.25,0.0,0.0,"[0.75, 0.25, 0.0, 0.0]",neutral
+"και χώρια, για δικού μου, αμάχουμουν. Απ᾿ όσους θρέφει τώρα","“O Gods! Our Greek earth will be drown’d in just tears; rapeful Troy,",0.5,0.375,0.125,0.0,"[0.5, 0.375, 0.125, 0.0]",neutral
+"η γη, κανείς δε θα 'χε ανάκαρα να χτυπηθεί μαζί τους.","Her king, and all his sons, will make as just a mock, and joy,",0.25,0.625,0.125,0.0,"[0.25, 0.625, 0.125, 0.0]",positive
+Κι ωστόσο παίρναν και τη γνώμη μου και μου άκουγαν το λόγο.,"Of these disjunctions; if of you, that all our host excel",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"Λοιπόν κι εσείς, ελάτε, ακούστε μου, χαρά σ᾿ αυτόν που ακούει.","In counsel and in skill of fight, they hear this. Come, repel",0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+"και μήτε εσύ, κι ας έχεις δύναμη, την κόρη να του πάρεις,","These young men’s passions. Y’ are not both, put both your years in one,",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+"μόν᾿ άφησέ τη, ως του την έδωκαν αποξαρχής οι Αργίτες᾿","So old as I. I liv’d long since, and was companion",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+"μήτε κι εσύ, Αχιλλέα, να ρίχνεσαι του βασιλιά μας τώρα","With men superior to you both, who yet would ever hear",0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+σαν ίσια κι όμοιος· τι δεν έλαχε την ίδια με τους άλλους,"My counsels with respect. My eyes yet never witness were,",0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+"τιμή ένας ρήγας πρωτοστάτορας, που ο Δίας τον μεγαλύνει.","Nor ever will be, of such men as then delighted them;",0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+"Κι αν είσαι δυνατός, κι αν σ᾿ έκανε θεά μητέρα εσένα,","Pirithous, Exadius, and god-like Polypheme,",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+"στέκει απ᾿ την άλλη αυτός πιο πάνω σου, τι πιο πολλούς ορίζει.","Cæneus, and Dryas prince of men, Ægean Theseüs,",0.0,0.75,0.25,0.0,"[0.0, 0.75, 0.25, 0.0]",positive
+"Υγιέ του Ατρέα, κι εσύ την όργητα παράτα, του Αχιλλέα","A man like heav’n’s immortals form’d; all, all most vigorous,",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+"μην του κρατάς θυμό, ξορκίζω σε᾿ τι στους Αργίτες όλους","Of all men that ev’n those days: bred; most vig’rous men, and fought",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+αυτός μας στέκει κάστρο ατράνταχτο μες στη σφαγή την άγρια.»,"With beasts most vig’rous, mountain beasts, (for men in strength were nought",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+Κι ο πρωταφέντης Αγαμέμνονας γυρνώντας του αποκρίθη:,"Match’d with their forces) fought with them, and bravely fought them down",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"« Τα όσα μου λες αλήθεια, γέροντα, πολύ σωστά και δίκια,","Yet ev’n with these men I convers’d, being call’d to the renown",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+"μ᾿ αυτός εδώ γυρεύει απ᾿ όλους μας να στέκεται πιο πάνω,","Of their societies, by their suits, from Pylos far, to fight",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"όλους δικούς του να 'χει, σε όλους μας να κάνει το κουμάντο,","In th’ Apian kingdom; and I fought, to a degree of might",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+όλους να ορίζει᾿ μα τα λόγια του θα πάν θαρρώ του ανέμου.,"That help’d ev’n their mights, against such as no man now would  dare",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"Κι αν οι θεοί μαθές οι αθάνατοι τον κάμαν αντρειωμένο,","To meet in conflict; yet ev’n these my counsels still would hear,",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+του δώκαν τάχα και το λεύτερο να βγαίνει να μας βρίζει;»,And with obedience crown my words. Give you such palm to them;,0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+Το λόγο του 'κόψε ο τρισεύγενος τότε Αχιλλέας και του 'πε:,"’Tis better than to wreath your wraths. Atrides, give not stream",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"« Αλήθεια, να με πούνε θ᾿ αξιζε κιοτή και τιποτένιο,","To all thy pow’r, nor force his prise, but yield her still his own,",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"σε ό,τι κι αν έλεγες αν σύγκλινα, να κάνω ό,τι προστάζεις.","As all men else do. Nor do thou encounter with thy crown,",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"Άλλους, αν θέλεις, βρες κι αφέντευε, σε μένα πια μην κάνεις","Great son of Peleus, since no king that ever Jove allow’d",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+κουμάντο τώρα᾿ τι τα λόγια σου θα παν θαρρώ του ανέμου.,Grace of a sceptre equals him. Suppose thy nerves endow’d,0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+"Κάποιο άλλο λόγο τώρα θά 'λεγα, και συ στο νου σου βάλ᾿ τον:","With strength superior, and thy birth a very goddess gave,",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+Στα χέρια αλήθεια εγώ δεν έρχομαι με σένα για και μ᾿ άλλον,"Yet he of force is mightier, since what his own nerves have",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+γι᾿ αυτή την κόρη που μού δώσατε και τώρα παίρνετέ μου',"Is amplified with just command of many other. King of men,",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+όμως απ᾿ τ᾿ άλλα που μου βρίσκουνται μες στο γοργό καράβι,Command thou then thyself; and I with my pray’rs will obtain,0.125,0.5,0.25,0.125,"[0.125, 0.5, 0.25, 0.125]",positive
+δεν έχεις να μου πάρεις τίποτα χωρίς το θέλημα μου.,Grace of Achilles to subdue his fury; whose parts are,0.0,0.625,0.375,0.0,"[0.0, 0.625, 0.375, 0.0]",positive
+"Είδε κι αν θες, ομπρός, δοκίμασε, για να το δουν και τούτοι'","Worth our entreaty, being chief check to all our ill in war.”",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+ευτύς θ᾿ αναβρυσίσει το αίμα σου τρογύρα απ᾿ το κοντάρι!»,"“All this, good father,” said the king, “is comely and good right;",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"Έτσι ως πιάστηκαν συναλλάζοντας λόγια βαριά κι οι δυο τους,","But this man breaks all such bounds; he affects, past all men, height;",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+σκωθηκαν και σκολνούν τη σύναξη στ᾿ Αργίτικα καράβια.,"All would in his pow’r hold, all make his subjects, give to all",0.375,0.25,0.25,0.125,"[0.375, 0.25, 0.25, 0.125]",neutral
+Και τράβηξε ο Αχιλλέας για τ᾿ άρμενα τα καλοζυγιασμένα,His hot will for their temp’rate law; all which he never shall,0.125,0.5,0.25,0.125,"[0.125, 0.5, 0.25, 0.125]",positive
+"και τα καλύβια, με τον Πάτροκλο μαζί και τους συντρόφους.",Persuade at my hands. If the gods have giv’n him the great style,0.25,0.5,0.125,0.125,"[0.25, 0.5, 0.125, 0.125]",positive
+"Κι ο γιος του Ατρέα γοργό στη θάλασσα καράβι λέει και ρίχνουν,","Of ablest soldier, made they that his licence to revile",0.125,0.625,0.125,0.125,"[0.125, 0.625, 0.125, 0.125]",positive
+"διαλέει και λαμνοκόπους είκοσι, πλήθια σφαχτά φορτώνει","Men with vile language?” Thetis’ son prevented him, and said:",0.125,0.625,0.125,0.125,"[0.125, 0.625, 0.125, 0.125]",positive
+για το θεό᾿ τη ροδομάγουλη μετά τη Χρυσοπούλα,"“Fearful and vile I might be thought, if the exactions laid",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+καθίζει. Μπήκε κι ο πολύγνωμος να κυβερνά Οδυσσέας.,"By all means on me I should bear. Others command to this,",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+Μπήκαν λοιπόν αυτοί κι αρμένιζαν στης θάλασσας τις στράτες!,"Thou shalt not me; or if thou dost, far my free spirit is",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"κι ο γιος του Ατρέα το ασκέρι πρόσταξε να ξαγνιστεί, κι εκείνοι","From serving thy command. Beside, this I affirm (afford",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+"λούζονταν, κι όλα τ᾿ απονίμματα μες στο γιαλό τα ρίχναν,",Impression of it in thy soul): will not use my sword,0.375,0.375,0.25,0.0,"[0.375, 0.375, 0.25, 0.0]",neutral
+και στον Απόλλωνα αψεγάδιαστα ταυριά και γίδια έσφαζαν,"On thee or any for a wench, unjustly though thou tak’st",0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+"πολλά, στης άκαρπης της θάλασσας μπροστά το γυρογιάλι'","The thing thou gav’st; but all things else, that in my ship thou mak’st",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+κι η κνίσα ανέβαινε στρουφίζοντας με τον καπνό στα ουράνια.,"Greedy survey of, do not touch without my leave; or do,—",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+Τούτοι έτσι εμόχτουν ο Αγαμέμνονας δεν παρατούσε ωστόσο,"Add that act’s wrong to this, that these may see that outrage too,—",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+την όχτρητα και τι φοβέρισε στον Αχιλλέα να κάνει',"And then comes my part; then be sure, thy blood upon my lance",0.25,0.125,0.625,0.0,"[0.25, 0.125, 0.625, 0.0]",negative
+"κι ευτύς τον Ευρυβάτη εφώναξε και τον Ταλθύβιο ομπρός του,",Shall flow in vengeance.” These high terms these two at variance,0.25,0.125,0.625,0.0,"[0.25, 0.125, 0.625, 0.0]",negative
+τους δυο διαλάληδες και πρόθυμους παραστεκάμενούς του:,Us’d to each other; left their seats; and after them arose,0.5,0.125,0.375,0.0,"[0.5, 0.125, 0.375, 0.0]",neutral
+«Για συρτέ στου Αχιλλέα και γρήγορα κρατώντας τη απ΄ το χέρι,"The whole court. To his tents and ships, with friends and soldiers, goes",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+φέρτε μου εδώ τη ροδομάγουλη γυρνώντας Βρισοπούλα.,"Angry Achilles. Atreus’ son the swift ship launch’d, and put",0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+"Κι αν δεν τη δώσει, εγώ με πιότερους Θα πάω και θα την πάρω","Within it twenty chosen row’rs, within it likewise shut",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+με αυτά τα χέρια μου᾿ βαρύτερα θα το πλερώσει τότε.»,The hecatomb t’ appease the God; then caus’d to come aboard,0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+"Ως είπε τούτα φοβερίζοντας, τους πρόσταξε να φύγουν,","Fair-cheek’d Chryseis; for the chief, he in whom Pallas pour’d",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+κι αυτοί στο κύμα δίπλα το άκαρπο γιαλό γιαλό τραβούσαν,"Her store of counsels, Ithacus, aboard went last; and then",0.5,0.25,0.25,0.0,"[0.5, 0.25, 0.25, 0.0]",neutral
+"αθέλητα τους, ως που στ᾿ άρμενα των Μυρμιδόνων φτάσαν.",The moist ways of the sea they sail’d. And now the king of men,0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+Και τον πέτυχαν στο καράβι του σιμά και στο καλύβι,"Bade all the host to sacrifice. They sacrific’d, and cast",0.375,0.25,0.25,0.125,"[0.375, 0.25, 0.25, 0.125]",neutral
+"να κάθεται, κι ουδέ το χάρηκε να τους ιδεί μπροστά του.",The offal of all to the deeps; the angry God they grac’d,0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"Κι εκείνοι εδείλιασαν και ντράπηκαν τον Αχιλλέα, κι αντίκρυ","With perfect hecatombs; some bulls, some goats, along the shore",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+στέκονταν κι ούτε τον χαιρέτιζαν κι ουδέ και τον ρωτούσαν.,"Of the unfruitful sea, inflam’d. To heav’n the thick fumes bore",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+Μ᾿ αυτός τι θέλαν το κατάλαβε και μίλησε τους πρώτος:,"Enwrapped savours. Thus, though all the politic king made shew",0.5,0.25,0.25,0.0,"[0.5, 0.25, 0.25, 0.0]",neutral
+"« Καλώς τους κράχτες, τους μαντάτορες του Δία και των ανθρώπων","Respects to heav’n, yet he himself all that time did pursue",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+"ζυγώστε᾿ εσείς δε φταίτε τίποτα, μονάχα ο γιος του Ατρέα,","His own affections; the late jar, in which he thunder’d threats",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+πού εδώ σας στέλνει να μου πάρετε την ώρια Βρισοπούλα.,"Against Achilles, still he fed, and his affections’ heats",0.0,0.75,0.25,0.0,"[0.0, 0.75, 0.25, 0.0]",positive
+"Πάτροκλε, εμπρός, αρχοντογέννητε, βγάλε και δώσ᾿ την κόρη","Thus vented to Talthybius, and grave Eurybates,",0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+να τήνε πάρουν κι οι διαλάληδες μαρτύροι ας είναι ετούτοι,"Heralds, and ministers of trust, to all his messages.",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"μπρος στους τρισμάκαρους αθάνατους, μπρος στους θνητούς ανθρώπους","“Haste to Achilles’ tent; where take Briseis’ hand, and bring",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"και μπρος στο βασιλιά τον άκαρδο, τη μέρα που θα μ᾿ έχουν","Her beauties to us. If he fail to yield her, say your king",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"τυχόν ανάγκη, πάλε από άδικο χαμό να ξεγλιτώσω","Will come himself, with multitudes that shall the horribler",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+τους άλλους· τι έχει εκείνος μέσα του κατάρα δίχως άλλο,"Make both his presence, and your charge, that so he dares defer.”",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"και ξεφρενιάζει, κι ουδέ δύνεται να ιδεί μπροστά και πίσω,","This said, he sent them with a charge of hard condition.",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+πώς δίπλα στα καράβια ανέβλαβος θα πολεμά ο στρατός του.»,"They went unwillingly, and trod the fruitless sea’s shore; soon",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"Είπε, κι ο Πάτροκλος του ακράνη του συναγρικάει το λόγο,","They reach’d the navy and the tents, in which the quarter lay",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+κι απ᾿ το καλύβι την πανέμνοστη τη Βρισοπούλα βγάζει,"Of all the Myrmidons, and found the chief Chief in their sway",0.375,0.125,0.5,0.0,"[0.375, 0.125, 0.5, 0.0]",negative
+"και τους τη δίνει· δίπλα στ᾿ άρμενα το δρόμο εκείνοι επήραν,",Set at his black bark in his tent. Nor was Achilles glad,0.5,0.125,0.375,0.0,"[0.5, 0.125, 0.375, 0.0]",neutral
+κι η κόρη αθέλητα της πήγαινε μαζί τους. Δακρυσμένος,To see their presence; nor themselves in any glory had,0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+τότε ο Αχιλλέας απ᾿ τους συντρόφους του μακραίνει και καθίζει,"Their message, but with rev’rence stocd, and fear’d th’ offended king,",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"μπρος στον ψαρή γιαλό, το απέραντο το πέλαγο θωρώντας,","Ask’d not the dame, nor spake a word. He yet, well knowing the thing",0.25,0.125,0.625,0.0,"[0.25, 0.125, 0.625, 0.0]",negative
+κι απλώνοντας τα χέρια ευκήθηκε στην ακριβή του μάνα:,"That caus’d their coming, grac’d them thus: “Heralds, ye men that bear",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"« Μάνα μου, τόσο αφού με γέννησες λιγόχρονο, και να 'ταν","The messages of men and gods, y’ are welcome, come ye near.",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"ο Ολύμπιος Δίας τιμή να μου 'δινεν, ο αψηλοβροντολάλος!","I nothing blame you, but your king; ’tis he I know doth send",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+Μ᾿ αυτός ουδέ μια στάλα μου 'δειξε τιμή την ώρα ετούτη᾿,"You for Briseis; she is his. Patroclus, honour’d friend,",0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+"τι ο πρωταφέντης Αγαμέμνονας, ο μέγας γιος του Ατρέα,","Bring forth the damsel, and these men let lead her to their lord.",0.25,0.125,0.625,0.0,"[0.25, 0.125, 0.625, 0.0]",negative
+"δε με σεβάστη, μόνο μου άρπαζε το αρχοντομοίρι ατός του.»","But, heralds, be you witnesses, before the most ador’d,",0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+"Είπε θρηνώντας, και τον άκουσεν η σεβαστή του η μάνα,","Before us mortals, and before your most ungentle king,",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"που πλάι στο γέρο κύρη εκάθουνταν, στα βάθη του πελάγου,","Of what I suffer, that, if war ever hereafter bring",0.25,0.5,0.125,0.125,"[0.25, 0.5, 0.125, 0.125]",positive
+"κι απ᾿ το ψαρί το κύμα επρόβαλε με βιάση, σαν αντάρα,","My aid in question, to avert any severest bane",0.125,0.5,0.25,0.125,"[0.125, 0.5, 0.25, 0.125]",positive
+"και στον υιό της που 'κλαιεν έτρεξε και κάθισε μπροστά του,","It brings on others, I am ’scus’d to keep mine aid in wane,",0.0,0.625,0.375,0.0,"[0.0, 0.625, 0.375, 0.0]",positive
+και με το χέρι της τον χάιδεψε κι έτσι μιλάει και κρένει:,"Since they mine honour. But your king, in tempting mischief, raves,",0.0,0.75,0.25,0.0,"[0.0, 0.75, 0.25, 0.0]",positive
+"« Τι κλαις, παιδί μου; ποιος σου τάραξε καημός τα σπλάχνα τώρα;",Nor sees at once by present things the future; how like waves,0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+"Μίλα ανοιχτά, κι οι δυο να ξέρουμε, μην το κρατάς κρυμμένο.»",Ills follow ills; injustices being never so secure,0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+Βαριά βογγώντας ο φτερόποδος απάντησε Αχιλλέας:,"In present times, but after-plagues ev’n then are seen as sure;",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"« Τα ξέρεις᾿ τι τα θες τα λόγια μου, μια και τα ξέρεις όλα;","Which yet he sees not, and so soothes his present lust, which, check’d,",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"Στη Θήβα, στου Ηετίωνα πήγαμε την πολιτεία την άγια,","Would check plagues future; and he might, in succouring right, protect",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"κι αφού την πήραμε, τα κούρσα μας εδώ τα φέραμε όλα.","Such as fight for his right at fleet. They still in safety fight,",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"Κι οι γιοι των Αχαιών, ως ταίριαζε, καθώς τα διαμοίραζαν,","That fight still justly.” This speech us’d, Patroclus did the rite",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+στο γιο του Ατρέα τη ροδομάγουλη χάρισαν Χρυσοπούλα.,"His friend commanded, and brought forth Briseis from her tent,",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"Μα ο Χρύσης, ο ιερέας του Απόλλωνα του μακροσαγιτάρη,","Gave her the heralds, and away to th’ Achive ships they went.",0.375,0.125,0.5,0.0,"[0.375, 0.125, 0.5, 0.0]",negative
+στων Αχαιών τα πλοία τα γρήγορα των χαλκοθωρακάτων,"She sad, and scarce for grief could go. Her love all friends forsook,",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"με λύτρα αρίφνητα, την κόρη του να λευτερώσει, φτάνει,",And wept for anger. To the shore of th’ old sea he betook,0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+του μακροσαγιτάρη Απόλλωνα κρατώντας τα στεφάνια,"Himself alone, and casting forth upon the purple sea",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+"πα στο χρυσό ραβδί, και πρόσπεφτε μπρος στους Αργίτες όλους,","His wet eyes, and his hands to heav’n advancing, this sad plea",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+ξεχωριστά στους δυο πολέμαρχους υγιούς του Ατρέα γυρνώντας.,Made to his mother; “Mother! Since you brought me forth to breathe,0.5,0.125,0.375,0.0,"[0.5, 0.125, 0.375, 0.0]",neutral
+Οι Αργίτες οι άλλοι ευτύς με μια φωνή να σεβαστούν έκραξαν,"So short a life, Olympius had good right to bequeath",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"το λειτουργό, και τα περίλαμπρα ν᾿ αποδεχτούνε δώρα'","My short life honour; yet that right he doth in no degree,",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"όμως του Ατρείδη του Αγαμέμνονα δεν άρεσε η βουλή τους,","But lets Atrides do me shame, and force that prise from me",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+μόν᾿ τον κακόδιωχνε και του 'ριχνε βαριά φοβέρα ακόμα.,"That all the Greeks gave.” This with tears he utter’d, and she heard,",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"Όλο θυμό τα πίσω ο γέροντας γυρνάει, κι ο Φοίβος τότε","Set with her old sire in his deeps, and instantly appear’d",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"την προσευκή του ευτύς επάκουσε, τι στην καρδιά τον είχε.","Up from the grey sea like a cloud, sate by his side, and said:",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"Φαρμακερές σαγίτες έριχνε στους Αχαιούς, κι εκείνοι",“Why weeps my son? What grieves thee?,0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"πέθαιναν πανωτά, και χύνουνταν οι θεϊκές σαγίτες","Speak, conceal not what hath laid",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+απ᾿ άκρη σ᾿ άκρη μες στ᾿ Αργίτικα φαρδιά λημέρια. Τότε,"Such hard hand on thee, let both know.” He, sighing like a storm,",0.375,0.125,0.5,0.0,"[0.375, 0.125, 0.5, 0.0]",negative
+"μας είπε τη βουλή, ως την κάτεχε, του Μακρορίχτη ο μάντης.",Replied: “Thou dost know. Why should I things known again inform?,0.5,0.125,0.375,0.0,"[0.5, 0.125, 0.375, 0.0]",neutral
+"Εγώ του Φοίβου να προσπέσουμε παρακινώ τους πρώτος,","We march’d to Thebes, the sacred town of king Eëtion,",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+"μα σύγκλυσε τον Αγαμέμνονα θυμός, κι ολόρθος τότε","Sack’d it, and brought to fleet the spoil, which every valiant son",0.25,0.125,0.625,0.0,"[0.25, 0.125, 0.625, 0.0]",negative
+"πετιέται και φοβέρα μου 'ριξε, που κιόλας έχει γένει᾿",Of Greece indifferently shar’d. Atrides had for share,0.25,0.125,0.625,0.0,"[0.25, 0.125, 0.625, 0.0]",negative
+τι εκείνη οι Αργίτες οι αστρομάτηδες με γρήγορο καράβι,"Fair-cheek’d Chryseis. After which, his priest that shoots so far,",0.375,0.25,0.375,0.0,"[0.375, 0.25, 0.375, 0.0]",neutral
+"την παν στη Χρύσα, και δοσίματα για το θεό φόρτωσαν","Chryses, the fair Chryseis’ sire, arriv’d at th’ Achive fleet,",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"όμως την άλλη, αυτήν που μου 'δωκαν οι Αργίτες, μου την πήραν,","With infinite ransom, to redeem the dear imprison’d feet",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"τη Βρισοπούλα, απ᾿ το καλύβι μου λίγη ώρα πριν οι κράχτες.","Of his fair daughter. In his hands he held Apollo’s crown,",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"Τώρα αν εσύ μπορείς, διαφέντεψε τον αντρειωμένο γιο σου᾿","And golden sceptre; making suit to ev’ry Grecian son,",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+"σύρε στον Όλυμπο και πρόσπεσε στο Δία, καμιάν ως τώρα","But most the sons of Atreüs, the others’ orderers,",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+φορά του Δία τα σπλάχνα αν εύφρανες με λόγο για με πράξη',Yet they least heard him; all the rest receiv’d with rev’rend ears,0.375,0.375,0.25,0.0,"[0.375, 0.375, 0.25, 0.0]",neutral
+τι σ᾿ άκουσα συχνά στου κύρη μου το σπίτι να παινιέσαι,"The motion, both the priest and gifts gracing, and holding worth",0.25,0.375,0.25,0.125,"[0.25, 0.375, 0.25, 0.125]",positive
+"και να μας λες, το μαυροσύγνεφο του Κρόνου υγιό μονάχη",His wish’d acceptance. Atreus’ son yet (vex’d) commanded forth,0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+"μες στους αθάνατους πως γλίτωσες από περίσσια πάθη,","With rude terms Phœbus’ rev’rend priest; who, angry, made retreat,",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+"τότε που θέλαν οι άλλοι του Ολύμπου θεοί να τόνε δέσουν,","And pray’d to Phœbus, in whose grace he standing passing great",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"ο Ποσειδώνας, η Ήρα κι η Αθηνά μαζί τους η Παλλάδα.",Got his petitión. The God an ill shaft sent abroad,0.25,0.375,0.25,0.125,"[0.25, 0.375, 0.25, 0.125]",positive
+"Μα ήρθες εσύ και τον λευτέρωσες, θεά, από τα δεσμά του,",That tumbled down the Greeks in heaps. The host had no abode,0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+τον Εκατόχερο φωνάζοντας στ᾿ ακρόκορφα του Ολύμπου᾿,That was not visited. We ask’d a prophet that well knew,0.0,0.625,0.25,0.125,"[0.0, 0.625, 0.25, 0.125]",positive
+οι θεοί τον κράζουν Πολυδύναμο κι οι άνθρωποι από την άλλη,"The cause of all; and from his lips Apollo’s prophecies flew,",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+"Αιγαίωνα, τι περνάει στη δύναμη και το γονιό του ακόμα.",Telling his anger. First myself exhorted to appease,0.125,0.5,0.25,0.125,"[0.125, 0.5, 0.25, 0.125]",positive
+"Κάθισε τότε καμαρώνοντας τη δύναμη του, δίπλα","The anger’d God; which Atreus’ son did at the heart displease,",0.125,0.75,0.125,0.0,"[0.125, 0.75, 0.125, 0.0]",positive
+"στο Δία, κι οι τρισμακάριοι εζάρωσαν θεοί και δεν τον δέσαν.","And up he stood, us’d threats, perform’d. The black-eyed Greeks sent home",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+"Ολα εσύ τώρα αυτά καθίζοντας σιμά του θύμισε του,","Chryseis to her sire, and gave his God a hecatomb.",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+"τα γόνατα του πιάσε, αν θα 'θελε στους Τρώες να δώσει χέρι,","Then, for Briseis, to my tents Atrides’ heralds came,",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+και τους Αργίτες πλάι στη θάλασσα κι ομπρός στα πλοία να κλείσει,And took her that the Greeks gave all. If then thy pow’rs can frame,0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"ματοκυλώντας τους, το ρήγα τους για να τον χαίρουνται όλοι᾿","Wreak for thy son, afford it. Scale Olympus, and implore",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"κι ο πρωταφέντης Αγαμέμνονας, ο γιος του Ατρέα, να νιώσει","Jove (if by either word, or fact, thou ever didst restore",0.375,0.25,0.375,0.0,"[0.375, 0.25, 0.375, 0.0]",neutral
+"την τύφλα του, που καταφρόνεσε τον πρώτο απ᾿ τους Αργίτες.»","Joy to his griev’d heart) now to help. I oft have heard thee vaunt,",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+Κι η Θέτη ευτύς του απηλογήθηκε στα δάκρυα βουτημένη:,"In court of Peleus, that alone thy hand was conversant",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+"« Ωχού, παιδί μου, τι σε ανάσταινα, τον πικρογεννημένο!","In rescue from a cruel spoil the black-cloud-gath’ring Jove,",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+"Ας ήταν άβλαβος κι αδάκρυτος στ᾿ άρμενα πλάι να μένεις,",Whom other Godheads would have bound (the Pow’r whose pace doth move,0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+έτσι που η Μοίρα λίγο σου 'γραψε κι όχι πολύ να ζήσεις.,"The round earth, heav’n’s great Queen, and Pallas); to whose bands",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+Μ᾿ αντάμα τώρα και λιγόχρονος κι ο πιο δυστυχισμένος,"Thou cam’st with rescue, bringing up him with the hundred hands",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+απ᾿ όλους είσαι. Μαύρη κι άραχλη που σε γεννούσα η μοίρα!,"To great Olympus, whom the Gods call Briarëus, men",0.0,0.0,1.0,0.0,"[0.0, 0.0, 1.0, 0.0]",negative
+Τούτα στο Δία τον κεραυνόχαρο να πω θ᾿ ανέβω ατή μου,"Ægæon, who his sire surpass’d, and was as strong again,",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"στο χιονοσκέπαστο τον Όλυμπο, μπορεί και να μ᾿ ακούσει.",And in that grace sat glad by Jove. Th’ immortals stood dismay’d,0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+Μα τώρα εσύ στα γοργοτάξιδα καθούμενος καράβια,"At his ascension, and gave free passage to his aid.",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"με τους Αργίτες βάστα μάνητα, μην πολεμάς καθόλου᾿","Of all this tell Jove; kneel to him, embrace his knee, and pray,",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"τι ο Δίας επήγε χτες στους άψεγους Αιθίοπες καλεσμένος,","If Troy’s aid he will ever deign, that now their forces may",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"στον Ωκεανό μακριά, κι οι αθάνατοι τον ακλουθηξαν όλοι.",Beat home the Greeks to fleet and sea; embruing their retreat,0.375,0.25,0.375,0.0,"[0.375, 0.25, 0.375, 0.0]",neutral
+"Ομως ξανά σε μέρες δώδεκα στον Όλυμπο θα γύρει,",In slaughter; their pains pay’ng the wreak of their proud sov’reign’s heat;,0.375,0.125,0.5,0.0,"[0.375, 0.125, 0.5, 0.0]",negative
+και τότε εγώ στο χαλκοκάτωφλο παλάτι του θ᾿ ανέβω,"And that far-ruling king may know, from his poor soldier’s harms",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"και θα προσπέσω ομπρός στα πόδια του, και λέω πώς θα μ᾿ ακούσει.»","His own harm falls; his own and all in mine, his best in arms.”",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"Σα μίλησε έτσι, ασκώθη κι έφυγε, κει πέρα αφήνοντας τον","Her answer she pour’d out in tears: “O me, my son,” said she,",0.25,0.125,0.625,0.0,"[0.25, 0.125, 0.625, 0.0]",negative
+"όλο θυμό, που την ωριόζωστη γυναίκα του 'χαν πάρει","“Why brought I up thy being at all, that brought thee forth to be",0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+"μεβιάς, αθέλητα του. Ζύγωνε στη Χρύσα το καράβι᾿","Sad subject of so hard a fate? O would to heav’n, that since",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"ωστόσο του Οδυσσέα, τ᾿ αγιάτικα σφαχτά που κουβαλούσε.","Thy fate is little, and not long, thou might’st without offence",0.375,0.375,0.25,0.0,"[0.375, 0.375, 0.25, 0.0]",neutral
+"Κι όταν εκείνοι στο πολύβαθο λιμάνι μέσα εμπήκαν,","And tears perform it! But to live, thrall to so stern a fate",0.375,0.25,0.375,0.0,"[0.375, 0.25, 0.375, 0.0]",neutral
+"μάζεψαν τα πανιά, τ᾿ απόθεσαν στο μελανό καράβι,","As grants thee least life, and that least so most unfortunate,",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+λύσαν τα ξάρτια και στο δίκρανο πλάγιασαν το κατάρτι,"Grieves me t’ have giv’n thee any life. But what thou wishest now,",0.5,0.25,0.25,0.0,"[0.5, 0.25, 0.25, 0.0]",neutral
+"με δίχως ξάργητα, και λάμνοντας το άραξοβόλι πιάνουν.","If Jove will grant, I’ll up and ask; Olympus crown’d with snow",0.5,0.25,0.25,0.0,"[0.5, 0.25, 0.25, 0.0]",neutral
+"Όξω πετούν τις αγκυρόπετρες και την πρυμάτσα δένουν,","I’ll climb; but sit thou fast at fleet, renounce all war, and feed",0.375,0.25,0.375,0.0,"[0.375, 0.25, 0.375, 0.0]",neutral
+"όξω κι εκείνοι στο γυρόγιαλο της θάλασσας εβγήκαν,","Thy heart with wrath, and hope of wreak; till which come, thou shalt need",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"όξω και τα σφαχτά του Απόλλωνα του μακρορίχτη έβγαλαν,",A little patience. Jupiter went yesterday to feast,0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+όξω απ᾿ το πλοίο το πελαγόδρομο κι η Χρυσοπούλα εβγήκε.,"Amongst the blameless Æthiops, in th’ ocean’s deepen’d breast,",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+Τότε ο Οδυσσέας ό πολυκάτεχος μπρος στο βωμό τη φέρνει,"All Gods attending him; the twelfth, high heav’n again he sees,",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+και την παράδωσε στου κύρη της τα χέρια λέγοντας του:,"And then his brass-paved court I’ll scale, cling to his pow’rful knees,",0.125,0.75,0.125,0.0,"[0.125, 0.75, 0.125, 0.0]",positive
+"«Χρύση, ο ρηγάρχης Αγαμέμνονας με στέλνει να σου δώσω","And doubt not but to win thy wish.” Thus, made she her remove,",0.125,0.75,0.125,0.0,"[0.125, 0.75, 0.125, 0.0]",positive
+"πίσω την κόρη, και να σφάξουμε περίσσια αρνιά στο Φοίβο,","And left wrath tyring on her son, for his enforcèd love.",0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+"να ελεηθεί, αν θελήσει η χάρη του, τους Δαναούς, τι αλήθεια","Ulysses, with the hecatomb, arriv’d at Chrysa’s shore;",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+με πίκρες έχει πολυστέναχτες ποτίσει τους Αργίτες.»,"And when amidst the hav’n’s deep mouth, they came to use the oar,",0.0,0.625,0.375,0.0,"[0.0, 0.625, 0.375, 0.0]",positive
+"Τούτα μιλώντας του την έδωκε, κι αυτός την κόρη εδέχτη","They straight strook sail, then roll’d them up, and on the hatches threw;",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+όλο χαρά᾿ κι εκείνοι γρήγορα τ᾿ αγιάτικα σφαχτάρια,"The top-mast to the kelsine then, with halyards down they drew;",0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+"στήσαν αράδα, στον καλόχτιστο βωμό του Φοίβου γύρω.",Then brought the ship to port with oars; then forked anchor cast;,0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"Κι ως χερονίφτηκαν κι εμοίρασαν τ᾿ αγιοκριθάρια, ο Χρύσης","And, ’gainst the violence of storm, for drifting made her fast.",0.375,0.625,0.0,0.0,"[0.375, 0.625, 0.0, 0.0]",positive
+"βροντόφωνα, τα χέρια ασκώνοντας, για χάρη τους ευκήθη:","All come ashore, they all expos’d the holy hecatomb",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+"« Επάκουσε μου, ασημοδόξαρε, που κυβερνάς τη Χρύσα","To angry Phœbus, and, with it, Chryseis welcom’d home;",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+"και την τρισάγια Κίλλα, κι άσφαλτα την Τένεδο αφεντεύεις᾿","Whom to her sire, wise Ithacus, that did at th’ altar stand,",0.25,0.625,0.125,0.0,"[0.25, 0.625, 0.125, 0.0]",positive
+κι άλλη φορά πιο πριν συνάκουσες την προσευκή μου εμένα,"For honour led, and, spoken thus, resign’d her to his hand:",0.125,0.75,0.125,0.0,"[0.125, 0.75, 0.125, 0.0]",positive
+και μου 'δειξες τιμή παιδεύοντας ανήλεα τους Αργίτες',"“Chryses, the mighty king of men, great Agamemnon, sends",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+"όμοια και τώρα, αυτή μη μου αρνηθείς που σου ζητώ τη χάρη,",Thy lov’d seed by my hands to thine; and to thy God commends,0.0,0.75,0.25,0.0,"[0.0, 0.75, 0.25, 0.0]",positive
+και τους Αργίτες απ᾿ τον άδικο χαμό πια γλίτωσε τους.»,"A hecatomb, which my charge is to sacrifice, and seek",0.0,1.0,0.0,0.0,"[0.0, 1.0, 0.0, 0.0]",positive
+"Είπε, και την ευκή του επάκουσεν ο Απόλλωνας ο Φοίβος·","Our much-sigh-mix’d woe his recure, invok’d by ev’ry Greek.”",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"κι ως ευκηθήκαν και πασπάλισαν μετά τ᾿ αγιοκριθάρια,","Thus he resign’d her, and her sire receiv’d her highly joy’d.",0.375,0.625,0.0,0.0,"[0.375, 0.625, 0.0, 0.0]",positive
+"αναλαιμίσαν τ᾿ αρνοκάτσικα, τα σφάξανε, τα γδάραν,","About the well-built altar, then, they orderly employ’d",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"χώρισαν τα μεριά, τα τύλιξαν τρογύρα με τη σκέπη,","The sacred off’ring, wash’d their hands, took salt cakes; and the priest,",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"διπλώνοντας τη, κι από πάνω τους κομμάτια κρέας πιθώσαν.","With hands held up to heav’n, thus pray’d: “O thou that all things seest,",0.375,0.375,0.25,0.0,"[0.375, 0.375, 0.25, 0.0]",neutral
+"Σε σκίζες πάνω ο γέρος τα 'καιγε, και με κρασί φλογάτο","Fautour of Chrysa, whose fair hand doth guard fully dispose",0.375,0.5,0.125,0.0,"[0.375, 0.5, 0.125, 0.0]",positive
+"τα περεχούσε, και πεντόσουβλες στο πλάι του οι νιοί κρατούσαν.","Celestial Cilia, governing in all pow’r Tenedos,",0.375,0.5,0.125,0.0,"[0.375, 0.5, 0.125, 0.0]",positive
+"Και σύντας τα μεριά αποκάηκαν και γεύτηκαν τα σπλάχνα,","O hear thy priest, and as thy hand, in free grace to my pray’rs,",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+λιανίσαν τ᾿ άλλα και περνώντας τα στις σούβλες να τα ψήνουν,"Shot fervent plague-shafts through the Greeks, now hearten their affairs",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+"επήραν γνοιαστικά, κι ως ψήθηκαν, τ᾿ αποτραβήξαν όλα.","With health renew’d, and quite remove th’ infection from their blood.”",0.5,0.5,0.0,0.0,"[0.5, 0.5, 0.0, 0.0]",neutral
+"Κι απ᾿ τις δουλειές αυτές σα σκόλασαν κι ετοίμασαν τις τάβλες,",He pray’d; and to his pray’rs again the God propitious stood.,0.5,0.5,0.0,0.0,"[0.5, 0.5, 0.0, 0.0]",neutral
+"έτρωγαν, κι είχαν ως εταίριαζε καθείς το μερτικό του.","All, after pray’r, cast on salt cakes, drew back, kill’d, flay’d the beeves,",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"και σύντας του πιοτού θαράπεψαν και του φαγιού τον πόθο,","Cut out and dubb’d with fat their thighs, fair dress’d with doubled leaves,",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"παίρνουν κροντήρια τ᾿ αρχοντόπουλα, κρασί τα ξεχειλίζουν,","And on them all the sweetbreads’ prick’d, The priest, with small  sere wood,",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+"και σ᾿ όλους τα ποτήρια εγιόμωσαν, απ᾿ τις σπονδές ν᾿ αρχίσουν.","Did sacrifice, pour’d on red wine; by whom the young men stood,",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+Κι ολημερίς με το τραγούδι τους και το χορό το Φοίβο,"And turn’d, in five ranks, spits; on which (the legs enough) they eat",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"γύρευαν να γλυκάνουν, κι όμορφο παιάνα ετραγουδούσαν","The inwards; then in giggots cut the other fit for meat,",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"τιμώντας τον οι Αργίτες, κι άκουγε κι αγάλλουνταν εκείνος.","And put to fire; which roasted well they drew. The labour done,",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"και σύντας ο ήλιος πια βασίλεψε και τα σκοτάδια επήραν,","They serv’d the feast in, that fed all to satisfaction.",0.375,0.625,0.0,0.0,"[0.375, 0.625, 0.0, 0.0]",positive
+μπρος στις πρυμάτσες του πλεούμενου να κοιμηθούν πλάγιασαν.,"Desire of meat and wine thus quench’d, the youths crown’d cups of wine",0.375,0.625,0.0,0.0,"[0.375, 0.625, 0.0, 0.0]",positive
+"Κι η Αυγή σα φάνη η πουρνογέννητη και ροδοδαχτυλάτη,","Drunk off, and fill’d again to all. That day was held divine,",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+να γύρουν στα φαρδιά ξανοίχτηκαν των Αχαιών λημέρια.,"And spent in pæans to the Sun, who heard with pleaséd ear;",0.25,0.5,0.125,0.125,"[0.25, 0.5, 0.125, 0.125]",positive
+και πρίμο αγέρα ο μακροδόξαρος Απόλλωνας τους στέλνει',"When whose bright chariot stoop’d to sea, and twilight hid the clear,",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"κι εκείνοι, το κατάρτι ορθώνοντας, τ᾿ άσπρα πανιά σήκωσαν,","All soundly on their cables slept, ev’n till the night was worn.",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"κι ο αγέρας πίσω τους τα φούσκωνε, και στην καρένα γύρω","And when the lady of the light, the rosy-finger’d Morn,",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+"του καραβιού, γοργά που αρμένιζε, το μαύρο κύμα αχούσε'","Rose from the hills, all fresh arose, and to the camp retir’d.",0.5,0.5,0.0,0.0,"[0.5, 0.5, 0.0, 0.0]",neutral
+"κι αυτό πετούσε απά στα κύματα, τελεύοντας τη στράτα.",Apollo with a fore-right wind their swelling bark inspir’d.,0.375,0.5,0.125,0.0,"[0.375, 0.5, 0.125, 0.0]",positive
+"και σύντας φτάσαν πια στ᾿ απλόχωρα των Αχαιών λημέρια,","The top-mast hoisted, milk-white sails on his round breast they put,",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+"πα στη στεριά τράβηξαν κι έβγαλαν το μελανό καράβι,","The mizens strooted with the gale, the ship her course did cut",0.375,0.625,0.0,0.0,"[0.375, 0.625, 0.0, 0.0]",positive
+"ψηλά στον άμμο, και το στύλωσαν με μακρουλά αντιστύλια,",So swiftly that the parted waves against her ribs did roar;,0.5,0.5,0.0,0.0,"[0.5, 0.5, 0.0, 0.0]",neutral
+κι ατοί τους στις καλύβες σκόρπισαν και στα καράβια γύρα.,"Which, coming to the camp, they drew aloft the sandy shore,",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"Πρόσμενε ωστόσο ο γοργογόνατος, ο αρχοντογεννημένος","Where, laid on stocks, each soldier kept his quarter as before.",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"γιος του Πηλέα στα πελαγόδρομα καράβια του χολιώντας,","But Peleus’ son, swift-foot Achilles, at his swift ships sate,",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+κι ουδέ στη δοξαντρούσα επήγαινε τη σύναξη ποτέ του,"Burning in wrath, nor ever came to councils of estate",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"κι ουδέ στον πόλεμο, μόν᾿ έτρωγε τα σωθικά του η πίκρα,","That make men honour’d, never trod the fierce embattled field,",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"που εδώ καθόταν, κι ας λαχτάριζεν αντάρες και πολέμους.","But kept close, and his lov’d heart pin’d, what fight and cries could yield",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"Μα σα διάβηκαν μέρες δώδεκα, το δρόμο έπαιρναν πίσω","Thirsting at all parts to the host, And now, since first he told",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"όλοι οι θεοί μαθές οι αθάνατοι, στον Όλυμπο να γύρουν,","His wrongs to Thetis, twelve fair morns their ensigns did unfold,",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+"κι ο Δίας μπροστά. Και τότε η Θέτιδα, το θέλημα του γιου της","And then the ever-living gods mounted Olympus, Jove",0.25,0.375,0.25,0.125,"[0.25, 0.375, 0.25, 0.125]",positive
+"θυμάμενη, γοργά απ᾿ της θάλασσας ξεπρόβαλε το κύμα","First in ascension. Thetis then, remember’d well to move",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+"κι ανέβη σύναυγα στον Όλυμπο, στον ουρανό το μέγα᾿","Achilles’ motion, rose from sea, and, by the morn’s first light,",0.5,0.375,0.125,0.0,"[0.5, 0.375, 0.125, 0.0]",neutral
+κι ήβρε στου Ολύμπου του πολύκορφου την πιο αψηλή τη ράχη,"The great heav’n and Olympus climb’d; where, in supremest height",0.375,0.375,0.25,0.0,"[0.375, 0.375, 0.25, 0.0]",neutral
+το γιο του Κρόνου το βροντόλαλο να κάθεται μονάχος.,"Of all that many-headed hill, she saw the far-seen son",0.5,0.375,0.125,0.0,"[0.5, 0.375, 0.125, 0.0]",neutral
+Μπροστά του τότε πήγε κάθισε και του 'πιασε τα γόνα,"Of Saturn, set from all the rest, in his free seat alone.",0.375,0.375,0.25,0.0,"[0.375, 0.375, 0.25, 0.0]",neutral
+"με το ζερβί, με το άλλο ακράγγιξε τα γένια του από κάτω,","Before whom, on her own knees fall’n, the knees of Jupiter",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+"κι είπε στο Δία παρακαλώντας τον, το ρήγα υγιό του Κρόνου;","Her left hand held, her right his chin, and thus she did prefer",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+"«Πατέρα Δία, ποτέ μου αν σ᾿ εύφρανα στους αθανάτους μέσα",Her son’s petition: “Father Jove! If ever I have stood,0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+"με λόγο για με πράξη, επάκουσε την πεθυμιά μου ετούτη:","Aidful to thee in word or work, with this imploréd good,",0.0,0.75,0.25,0.0,"[0.0, 0.75, 0.25, 0.0]",positive
+"Το γιο μου τίμησε, που η μοίρα του να ζήσει γράφει απ᾿ όλους","Requite my aid, renown my son, since in so short a race",0.0,0.625,0.375,0.0,"[0.0, 0.625, 0.375, 0.0]",positive
+"πιο λίγο, κι όμως ο Αγαμέμνονας ο πρωταφέντης τώρα",(Past others) thou confin’st his life. An insolent disgrace,0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"τον καταφρόνεσε, τι του άρπαξε το αρχοντομοίρι ατός του.",Is done him by the king of men; he forc’d from him a prise,0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"Όμως, Ολύμπιε Δία βαθύγνωμε, τίμησε εσύ το γιο μου","Won with his sword. But thou, O Jove, that art most strong, most wise,",0.0,0.75,0.25,0.0,"[0.0, 0.75, 0.25, 0.0]",positive
+"στους Τρώες τη νίκη τώρα δίνοντας, ως πού να πουν κι οι Αργίτες",Honour my son for my sake; add strength to the Trojans’ side,0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+"να τον τιμήσουν, και τιμώντας τον ξεπλερωμή να δώσουν.»",By his side’s weakness in his want; and see Troy amplified,0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+"Αυτά είπε, όμως ο Δίας δε μίλησεν ο νεφελοστοιβάχτης,","In conquest, so much, and so long, till Greece may give again",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"μόνο βουβός πολληώρα εκάθουνταν κι η Θέτη, ως τα κρατούσε","The glory reft him, and the more illustrate the free reign",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"αποξαρχής, τα γόνα του 'σφιγγε και μίλησε του πάλι:",Of his wrong’d honour.” Jove at this sate silent; not a word,0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"« Ξάστερα δώσε μου το λόγο σου και στρέξε αυτά που σου 'πα,","In long space pass’d him. Thetis still hung on his knee, implor’d",0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+"για αρνήσου μου, τι εσύ δε σκιάζεσαι κανένα, για να ξέρω","The second time his help, and said: “Grant, or deny my suit,",0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+"καλά, ή θεά πως είμαι απ᾿ όλους σας ή πιο παραριγμένη.»","Be free in what thou dost; I know, thou canst not sit thus mute",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+Συχύστη τότε ο Δίας κι απάντησεν ο νεφελοστοιβάχτης:,"For fear of any; speak, deny, that so I may be sure,",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"«Ωχού μπελάδες! Σε φαγώματα με βάζεις με την Ήρα,","Of all heav’n’s Goddesses ’tis I, that only must endure",0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+που θα μ᾿ αρχίσει τα μαλώματα και θα μ᾿ αγκυλοχεύει.,"Dishonour by thee.” Jupiter, the great cloud-gath’rer, griev’d",0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+Έτσι κι αλλιώς μες στους αθάνατους θεούς θυμώνει εκείνη,"With thought of what a world of griefs this suit ask’d, being achiev’d,",0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+"μαζί μου, τάχα πως στον πόλεμο τους Τρώες συντρέχω πάντα.","Swell’d, sigh’d, and answer’d: “Works of death thou urgest. O, at this",0.0,0.125,0.875,0.0,"[0.0, 0.125, 0.875, 0.0]",negative
+"Μα τώρα εσύ τραβήξου γρήγορα, δε θέλω να σε νιώσει","Juno will storm, and all my pow’rs inflame with contumelies.",0.125,0.125,0.75,0.0,"[0.125, 0.125, 0.75, 0.0]",negative
+"η Ήρα, κι εγώ όλα που μελέτησες θα τα γνοιαστώ να γενούν.","Ever she wrangles, charging me in ear of all the Gods",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+"Ομπρός λοιπόν, με το κεφάλι μου θα γνέψω, να πιστέψεις'","That I am partial still, that I add the displeasing odds",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+τι αυτό είναι μέσα στους αθάνατους το πιο τρανό από μένα,"Of my aid to the Ilians. Begone then, lest she see;",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+σημάδι᾿ τι είναι αμεταγύριστος κι αψεύτιστος και βγαίνει,"Leave thy request to my care; yet, that trust may hearten thee",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+"το δίχως άλλο πάντα ο λόγος μου, με το κεφάλι ως γνέψω.»","With thy desire’s grant, and my pow’r to give it act approve",0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+"Είπε, και με τα φρύδια του έγνεψε τα μαύρα ο γιος του Κρόνου,","How vain her strife is, to thy pray’r my eminent head shall move;",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+κι οι θείες με ορμήν αναταράχτηκαν οι χήτες στο κεφάλι,Which is the great sign of my will with all th’ immortal states;,0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+"το αθάνατο, και ριζοτράνταξε τον Όλυμπο το μέγα.",Irrevocable; never fails; never without the rates,0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+"Σαν έτσι οι δυο τους τα συνταίριαξαν, χωρίζουν στου πελάγου","Of all pow’rs else; when my head bows, all heads bow with it still",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"πηδά τα βάθη από τον Όλυμπο το φωτοβόλο εκείνη,",As their first mover; and gives pow’r to any work I will.”,0.375,0.5,0.125,0.0,"[0.375, 0.5, 0.125, 0.0]",positive
+"κι ο Δίας τραβούσε στο παλάτι του, κι όλοι μαζί ασκωθήκαν",He said; and his black eyebrows bent; above his deathless head,0.125,0.75,0.125,0.0,"[0.125, 0.75, 0.125, 0.0]",positive
+απ᾿ τα θρονιά οι θεοί᾿ δεν τόλμησε στον κύρη ομπρός κανένας,"Th’ ambrosian curls flow’d; great heav’n shook: and both were severéd,",0.125,0.75,0.125,0.0,"[0.125, 0.75, 0.125, 0.0]",positive
+"να μείνει καθιστός, ως ζύγωνε, μόν᾿ στάθηκαν μπροστά του.",Their counsels broken. To the depth of Neptune’s kingdom div’d,0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+Κι αυτός στο θρόνο τότε εκάθισε. Δεν είχε όμως ξεφύγει,Thetis from heav’n’s height; Jove arose; and all the Gods receiv’d,0.375,0.25,0.375,0.0,"[0.375, 0.25, 0.375, 0.0]",neutral
+"της Ήρας τη ματιά, και το 'ξερε πως μίλησε μαζί του","(All rising from their thrones) their Sire, attending to his court.",0.375,0.25,0.375,0.0,"[0.375, 0.25, 0.375, 0.0]",neutral
+"η Θέτη, η κόρη η χιοναστράγαλη του θαλασσογερόντου·","None sate when he rose, none delay’d the furnishing his port",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"κι ευτύς στο γιο του Κρόνου εγύρισε, μιλά και τον κεντρίζει:","Till he came near; all met with him, and brought him to his throne.",0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"«Ποιος πάλε απ᾿ τους θεούς, δολόγνωμε, τα ταίριαξε μαζί σου;","Nor sate great Juno ignorant, when she beheld alone",0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+Πάντα σου αρέσει αλήθεια αλάργα μου καθούμενος να κλώθεις,"Old Nereus’ silver-footed seed with Jove, that she had brought",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"διαλογισμούς κρυφούς κι απόφασες να παίρνεις, και ποτέ σου","Counsels to heav’n; and straight her tongue had teeth in it, that wrought",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+το που 'βαλες στο νου δε θέλησες να μου το πεις και μένα.»,This sharp invective: “Who was that (thou craftiest counsellor,0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+Κι απηλογήθη των αθάνατων και των θνητών ο κύρης:,Of all the Gods) that so apart some secret did implore?,0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"«Ήρα, το κάθε που στοχάζομαι καθόλου μην τ᾿ ολπίζεις","Ever, apart from me, thou lov’st to counsel and decree",0.0,0.5,0.5,0.0,"[0.0, 0.5, 0.5, 0.0]",positive
+"να σου το φανερώνω᾿ δύσκολο, γυναίκα μου κι ας είσαι.",Things of more close trust than thou think’st are fit t’ impart to me.,0.0,0.625,0.375,0.0,"[0.0, 0.625, 0.375, 0.0]",positive
+"Αλήθεια, ό,τι είναι που δε θα 'βλαφτε να μαθευτεί, κανένας","Whatever thou determin’st, I must ever be denied",0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+"πριν από σένα, μήτε αθάνατος μήτε θνητός, θα μάθει.",The knowledge of it by thy will.” To her speech thus replied,0.125,0.75,0.125,0.0,"[0.125, 0.75, 0.125, 0.0]",positive
+"Μα αυτό που χώρια απ᾿ τους αθάνατους στο νου μου εγώ θα βάλω,",The Father both of men and Gods: “Have never hope to know,0.25,0.5,0.25,0.0,"[0.25, 0.5, 0.25, 0.0]",positive
+μη θες να το ρωτάς ανώφελα και μην ψιλοσκαλίζεις.»,"My whole intentions, though my wife; it fits not, nor would show",0.0,0.5,0.5,0.0,"[0.0, 0.5, 0.5, 0.0]",positive
+και τότε η σεβαστή του απάντησε βοϊδομάτη Ήρα κι είπε:,"Well to thine own thoughts; but what fits thy woman’s ear to hear,",0.625,0.25,0.125,0.0,"[0.625, 0.25, 0.125, 0.0]",neutral
+"« Ύγιέ του Κρόνου τρομερότατε, τι λόγια αυτά που κρένεις;","Woman, nor man, nor God, shall know before it grace thine ear.",0.0,0.5,0.5,0.0,"[0.0, 0.5, 0.5, 0.0]",positive
+"Ποτέ να σε ρωτώ δε θέλησα και να ψιλοσκαλίζω,","Yet what, apart from men and Gods, I please to know, forbear",0.0,0.5,0.5,0.0,"[0.0, 0.5, 0.5, 0.0]",positive
+"μόν᾿ ό,τι θες μπορείς ανέγνοιαστα να στοχαστείς μονάχος.","T’ examine, or inquire of that.” She with the cow’s fair eyes,",0.0,0.625,0.375,0.0,"[0.0, 0.625, 0.375, 0.0]",positive
+"Μα τώρα τρέμω μες στα σπλάχνα μου, μη σ᾿ έχει καταφέρει","Respected Juno, this return’d: “Austere king of the skies,",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"η Θέτη, η κόρη η χιοναστράγαλη του θαλασσογερόντου·","What hast thou utter’d? When did I before this time inquire,",0.25,0.375,0.375,0.0,"[0.25, 0.375, 0.375, 0.0]",positive
+"τι σύναυγα κοντά σου εκάθισε και σου 'πιάσε τα γόνα,",Or sift thy counsels? Passing close you are still. Your desire,0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+κι αλήθεια εσύ θαρρώ της έταξες στον Αχιλλέα να δώσεις,"Is serv’d with such care, that I fear you can scarce vouch the deed",0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+"τιμή, κι Αργίτες γύρω στ᾿ άρμενα περίσσιους ν᾿ αφανίσεις.»","That makes it public, being seduc’d by this old sea-god’s seed,",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+και τότε ο Δίας της άποκρίθηκεν ο νεφελοστοιβάχτης:,"That could so early use her knees, embracing thine. I doubt,",0.625,0.125,0.25,0.0,"[0.625, 0.125, 0.25, 0.0]",neutral
+«Δαιμονισμένη! Πάντα το κακό στο νου σου! Δε γλιτώνω!,The late act of thy bowéd head was for the working out,0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"όμως χαμένοι πάνε οι κόποι σου, και μόνο απ᾿ την καρδιά μου",Of some boon she ask’d; that her son thy partial hand would please,0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"μακραίνεις. Τόσο το χειρότερο για σένα, λέω. Κι αν έτσι","With plaguing others.” “Wretch!” said he, “thy subtle jealousies",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"μαθές ως τα 'πες τούτα εγίνηκαν, έτσι μου αρέσει εμένα!","Are still exploring; my designs can never ’scape thine eye,",0.0,0.375,0.625,0.0,"[0.0, 0.375, 0.625, 0.0]",negative
+"Μόν᾿ κάθου κι άκουε κάθε λόγο μου, και μη μου βγάζεις άχνα,",Which yet thou never canst prevent. Thy curiosity,0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"μην έρθω αυτού και ρίξω απάνω σου τ᾿ ανίκητα μου χέρια,","Makes thee less car’d for at my hands, and horrible the end",0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+και τότε πια δε θα σε γλίτωναν όλοι οι θεοί του Ολύμπου.»,"Shall make thy humour. If it be what thy suspects intend,",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"Ετσι είπε, κι η σεβάσμια δείλιασε βοϊδομάτη Ήρα ομπρός του,",What then? ’Tis my free will it should; to which let way be giv’n,0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+και κόμπο την καρδιά της δένοντας δίχως μιλιά εκαθόταν,With silence. Curb your tongue in time; lest all the Gods in heav’n,0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+μα κι οί άλλοι αθάνατοι επικράθηκαν στου Δία το αρχονταρίκι.,"Too few be and too weak to help thy punish’d insolence,",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"Τότε ο λαμπρός τεχνίτης Ήφαιστος πήρε να λέει μπροστά τους,",When my inaccessible hands shall fall on thee.” The sense,0.375,0.375,0.25,0.0,"[0.375, 0.375, 0.25, 0.0]",neutral
+"για να γλυκάνει τη μητέρα του, την κρουσταλλόχερη Ήρα:","Of this high threat’ning made her fear, and silent she sate down,",0.125,0.75,0.125,0.0,"[0.125, 0.75, 0.125, 0.0]",positive
+"«Ώχού μπελάδες που μας πλάκωσαν αβάσταχτοι, αν οι δυο σας",Humbling her great heart. All the Gods in court of Jove did frown,0.0,0.25,0.625,0.125,"[0.0, 0.25, 0.625, 0.125]",negative
+"για τους θνητούς εδώ συχύζεστε, κι αμάχες και φοβέρες","At this offence giv’n; amongst whom heav’n’s famous artizan,",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"μες στους αθάνατους ασκώνετε, και μήτε θα χαρούμε","Ephaistus, in his mother’s care, this comely speech began:",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"γλυκό ψωμί, τι αλήθεια δαίμονας κακός μας δυναστεύει.","“Believe it, these words will breed wounds, beyond our pow’rs to bear,",0.0,0.25,0.75,0.0,"[0.0, 0.25, 0.75, 0.0]",negative
+"Μια γνώμη θα 'δινα στη μάνα μου, κι ας το νογάει κι ατή της:",If thus for mortals ye fall out. Ye make a tumult here,0.125,0.625,0.25,0.0,"[0.125, 0.625, 0.25, 0.0]",positive
+"το Δία τον κύρη να καλόπιανε, να μην αρχίσει πάλε",That spoils our banquet. Evermore worst matters put down best.,0.0,0.75,0.25,0.0,"[0.0, 0.75, 0.25, 0.0]",positive
+"μαλώματα και το τραπέζι μας κάμει άνω κάτω, ως τρώμε᾿","But, mother, though yourself be wise, yet let your son request",0.0,0.625,0.375,0.0,"[0.0, 0.625, 0.375, 0.0]",positive
+τι αν θέλει του Ολύμπου ο αστραπόχαρος αφέντης απ᾿ τους θρήνους,"His wisdom audience. Give good terms to our lov’d father Jove,",0.0,0.625,0.375,0.0,"[0.0, 0.625, 0.375, 0.0]",positive
+να μας πετάξει... τι στη δύναμη πολύ τρανότερος μας.,"For fear he take offence again, and our kind banquet prove",0.0,0.5,0.5,0.0,"[0.0, 0.5, 0.5, 0.0]",positive
+"Μόν᾿ έλα τώρα εσύ, καλόπιασ᾿ τον και γλυκομίλησέ του,","A wrathful battle. If he will, the heav’nly Light’ner can",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+και τότε ευτύς ο αφέντης του Ολύμπου θα 'ναι καλός μαζί μας.»,Take you and toss you from your throne; his pow’r Olympian,0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"Έτσι είπε, και πηδώντας έβαλε στης ακριβής του μάνας","Is so surpassing. Soften then with gentle speech his spleen,",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"τα χέρια κούπα διπλογούβωτη, κι αυτά της λέει τα λόγια:",And drink to him; I know his heart will quickly down again.”,0.375,0.5,0.125,0.0,"[0.375, 0.5, 0.125, 0.0]",positive
+"« Υπομονέψου τώρα, μάνα μου, βαστά, κι ας έχεις πίκρα,","This said, arising from his throne, in his lov’d mother’s hand",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+μη λάχει και σε ιδώ να δέρνεσαι και δεν μπορέσω χέρι,"He put the double-handed cup, and said: “Come, do not stand",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+"να δώσω, μ᾿ όλη την αγάπη μου, κι ας σε πονά η καρδιά μου·","On these cross humours, suffer, bear, though your great bosom grieve,",0.0,0.75,0.25,0.0,"[0.0, 0.75, 0.25, 0.0]",positive
+τι αλί σε κείνον που με του Ολύμπου το ρήγα θα τα βάλει!,And lest blows force you; all my aid not able to relieve,0.0,0.625,0.375,0.0,"[0.0, 0.625, 0.375, 0.0]",positive
+"Κι άλλη φορά, που να 'ρθω θέλησα βοηθός σου, από το πόδι","Your hard condition, though these eyes behold it, and this heart",0.125,0.5,0.375,0.0,"[0.125, 0.5, 0.375, 0.0]",positive
+μ᾿ έπιασε αυτός κι από το αθάνατο με πέταξε κατώφλι',Sorrow to think it. ’Tis a task too dang’rous to take part,0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"όλη τη μέρα, ως το βασίλεμα του γήλιου, εγκρεμιζόμουν,",Against Olympius. I myself the proof of this still feel.,0.125,0.25,0.625,0.0,"[0.125, 0.25, 0.625, 0.0]",negative
+"ως πού στη Λήμνο πια σωριάστηκα με την ψυχή στο στόμα,","When other Gods would fain have help’d, he took me by the heel,",0.125,0.375,0.5,0.0,"[0.125, 0.375, 0.5, 0.0]",negative
+"κι ευτύς, ως έπεσα, με πήρανε να με γνοιαστούν οι Σίντες.»",And hurl’d me out of heav’n. All day I was in falling down;,0.0,0.75,0.25,0.0,"[0.0, 0.75, 0.25, 0.0]",positive
+"Έτσι είπε, κι η θεά αχνογέλασεν, η κρουσταλλόχερη Ήρα,",At length in Lemnos I strook earth. The likewise-falling sun,0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+κι αχνογελώντας μες στα χέρια της πήρε απ᾿ το γιο την κούπα.,"And I, together, set; my life almost set too; yet there",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+Κι αυτός απ᾿ το κροντήρι ανάσερνε και μοίραζε στους άλλους,The Sintii cheer’d and took me up.” This did to laughter cheer,0.25,0.625,0.125,0.0,"[0.25, 0.625, 0.125, 0.0]",positive
+—δεξιά μεριά—θεούς αθάνατο γλυκό κρασί να πιούνε.,"White-wristed Juno, who now took the cup of him, and smil’d.",0.0,0.875,0.125,0.0,"[0.0, 0.875, 0.125, 0.0]",positive
+"Κι άσβηστο γέλιο τότε άσκώθηκε μες στους μακαρισμένους,","The sweet peace-making draught went round, and lame Ephaistus fill’d",0.0,0.75,0.25,0.0,"[0.0, 0.75, 0.25, 0.0]",positive
+λαχανιαστό να ιδούν τον Ήφαιστο τα πόδια του να σέρνει.,Nectar to all the other Gods. A laughter never left,0.25,0.25,0.5,0.0,"[0.25, 0.25, 0.5, 0.0]",negative
+"Τότε έτσι εκείνοι, ως που εβασίλεψεν ο γήλιος, όλη μέρα","Shook all the blesséd deities, to see the lame so deft",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"έτρωγαν, κι είχεν, ως έταίριαζε, καθείς το μερτικό του'","At that cup service. All that day, ev’n till the sun went down,",0.375,0.625,0.0,0.0,"[0.375, 0.625, 0.0, 0.0]",positive
+"μήτε η γλυκιά κιθάρα απόλειπε στου Απόλλωνα τα χέρια,","They banqueted, and had such cheer as did their wishes crown.",0.125,0.625,0.125,0.125,"[0.125, 0.625, 0.125, 0.125]",positive
+"μήτε κι οί Μούσες, που γλυκόφωνα με τη σειρά έτραγούδουν.",Nor had they music less divine; Apollo there did touch,0.375,0.5,0.125,0.0,"[0.375, 0.5, 0.125, 0.0]",positive
+"Και σύντας του ήλιου πια βασίλεψε το φως το αχτιδοβόλο,","His most sweet harp, to which, with voice, the Muses pleas’d as much.",0.0,0.0,0.0,1.0,"[0.0, 0.0, 0.0, 1.0]",narrator
+"καθένας στο δικό του ετράβηξε το αρχοντικό να γείρει,","But when the sun’s fair light was set, each Godhead to his house",0.25,0.625,0.125,0.0,"[0.25, 0.625, 0.125, 0.0]",positive
+"κει που 'χε χτίσει στον καθένα τους παλάτι ο κουτσοπόδης,","Address’d for sleep, where ev’ry one, with art most curious,",0.375,0.625,0.0,0.0,"[0.375, 0.625, 0.0, 0.0]",positive
+"ο ξακουστός τεχνίτης Ήφαιστος, με τη σοφή του τέχνη.",By heav’n’s great both-foot-halting God a sev’ral roof had built.,0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+"Κι ο Δίας ο Ολύμπιος, ό αστραπόχαρος, στην κλίνη του τραβούσε,","Ev’n he to sleep went, by whose hand heav’n is with lightning gilt,",0.25,0.75,0.0,0.0,"[0.25, 0.75, 0.0, 0.0]",positive
+"εκεί που ως τώρα πάντα, ως του 'ρχονταν ύπνος γλυκός, κοιμόταν","High Jove, where he had us’d to rest when sweet sleep seiz’d his eyes;",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
+"κει πάνω ανέβη, κι η χρυσόθρονη σιμά του επλάγιαζε Ήρα.","By him the golden-thron’d Queen slept, the Queen of deities.",0.125,0.875,0.0,0.0,"[0.125, 0.875, 0.0, 0.0]",positive
