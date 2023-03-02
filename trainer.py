@@ -8,8 +8,7 @@ from sklearn.pipeline import Pipeline
 
 #preprocessing
 from sklearn.preprocessing import OneHotEncoder
-from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 #Processing greek text
 import spacy
@@ -28,6 +27,7 @@ class Trainer:
         self.metrics = {}
         self.model = None
         self.ohe = OneHotEncoder()
+        self.stopwords = []
 
 
     def remove_class(self, class_to_remove):
@@ -58,6 +58,8 @@ class Trainer:
         lemma_list = []
         
         nlp = spacy.load("el_core_news_md")
+        self.stopwords = nlp.Defaults.stop_words
+
         doc = nlp(sentence)
         
         lemma_list= [token.lemma_ for token in doc if token.pos_ != "PUNCT"] 
@@ -125,8 +127,7 @@ class Trainer:
             
             #Naive Bayes
             model_pipeline = Pipeline([
-                ('vect', CountVectorizer()),
-                ('tfidf', TfidfTransformer()),
+                ('vect', TfidfVectorizer(stop_words=self.stopwords)),
                 ('clf', model),
                 ])
 
