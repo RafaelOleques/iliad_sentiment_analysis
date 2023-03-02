@@ -19,19 +19,24 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics import recall_score
 from sklearn.metrics import precision_score
 
+#sbert
+from sentence_transformers import SentenceTransformer
+
 class Trainer:
 
     def __init__(self, datapath, target):
         self.df = pd.read_csv(datapath)  
         self.target = target
-        self.metrics = {}
         self.model = None
         self.ohe = OneHotEncoder()
         self.stopwords = []
-
+        self.X = None
+        self.y = None
 
     def remove_class(self, class_to_remove):
         '''
+        Remove a specific class from the dataset
+
         df: dataframe
         class_to_remove: class to remove
         '''
@@ -40,6 +45,8 @@ class Trainer:
 
     def merge_class(self, class_to_merge, class_target):
         '''
+        Merge to class of the dataframe and rename to "other"
+
         df: dataframe
         class_to_remove: class to remove
         '''
@@ -47,10 +54,10 @@ class Trainer:
         self.df[self.target] = self.df[self.target].replace(class_target, "other")
 
 
-
-
     def lemmatize_sentence(self, sentence):
         '''
+        Remove stopwords and lemmatize a sentence
+
         sentence: greek sentence
 
         return: lemmatized greek sentence as string
@@ -68,6 +75,8 @@ class Trainer:
 
     def one_hot_encoder(self):
         '''
+        One hot encode the target class
+
         target: target class
 
         return: one hot encoded targets
@@ -79,29 +88,53 @@ class Trainer:
         y = y_temp.toarray()
 
         return y
+
+    def sbert_embedding(self, X):
+        '''
+        Generate the sbert embeddings
+
+        X: greek sentence
+
+        return: sbert embedding
+        '''
+        self.sbert_model = SentenceTransformer('lighteternal/stsb-xlm-r-greek-transfer')
+        
+        return self.sbert_model.encode(X)
     
 
-    def pre_procession(self, lemmatize, ohe):
+    def pre_procession(self, lemmatize, sbert):
         '''
+        Operations of pre processing: lemmatization or sbert embeddings
+
         lemmatize: true if lemmatization, false otherwise
         ohe:  true if one hot enconding, false otherwise
+        sbert: true if use sbert embedding, false otherwise
+                If its true, lemmatize will be ignored
 
         return: lemmatized text and one hot encoded targets
         '''
-        if lemmatize:
+
+        if sbert:
+            X = self.sbert_embedding(self.df["greek text"].tolist())
+        elif lemmatize:
             X = [self.lemmatize_sentence(x) for x in self.df["greek text"].tolist()]
         else:
             X = self.df["greek text"].tolist()
 
-        if ohe:
-            y = self.one_hot_encoder()
-        else:
-            y = self.df["class"].values.tolist()
+        y = self.one_hot_encoder()
 
         return X, y
 
-    def cross_validation(self, model, nro_folds, lemmatize, ohe, shuffle=True, seed=42):
+    def prepare_data_to_train(self, lemmatize, sbert):
         '''
+        Call pre processing function and assing the attributes X and y
+        '''
+        self.X, self.y = self.pre_procession(lemmatize=lemmatize, sbert=sbert)
+    
+    def cross_validation(self, model, nro_folds, shuffle=True, seed=42):
+        '''
+        Do k fold cross validation
+
         X: greek text
         y: target class
         model: model to be used
@@ -111,21 +144,21 @@ class Trainer:
         shuffle: shuffle data
         seed: random seed
         class_to_remove: list of classes to be removed
+
+        return: dict of metrics
         '''
-
-        X, y = self.pre_procession(lemmatize, ohe)
-        folds = k_folds(X=X, y=y, k=nro_folds, shuffle=shuffle, seed=seed)
-
         accuracy_list = []
         recall_list = []
         precision_list = []
 
+        folds = k_folds(X=self.X, y=self.y, k=nro_folds, shuffle=shuffle, seed=seed)
+
         for (train_fold, test_fold) in folds:
             #Train and test
-            X_train, y_train =  train_values(X, y, train_fold)
-            X_test, y_test =  test_values(X, y, test_fold)
+            X_train, y_train =  train_values(self.X, self.y, train_fold)
+            X_test, y_test =  test_values(self.X, self.y, test_fold)
             
-            #Naive Bayes
+            #Model
             model_pipeline = Pipeline([
                 ('vect', TfidfVectorizer(stop_words=self.stopwords)),
                 ('clf', model),
@@ -141,24 +174,14 @@ class Trainer:
             accuracy_list.append(accuracy)
             recall_list.append(recall)
             precision_list.append(precision)
-    
-        self.metrics["accuracy"] = accuracy_list
-        self.metrics["recall"] = recall_list
-        self.metrics["precision"] = precision_list
 
-    def get_metrics(self):
-        '''
-        returns all the metrics
-        '''
-        return self.metrics
+        metrics = {}
 
+        metrics["accuracy"] = accuracy_list
+        metrics["recall"] = recall_list
+        metrics["precision"] = precision_list
 
-    def get_metric(self, metric):
-        '''
-        metric: the metric name
+        return metrics
 
-        return the specified metric
-        '''
-        return self.metrics[metric]
 
         
