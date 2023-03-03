@@ -13,20 +13,9 @@ def k_folds(k, X, y, shuffle=True, seed=42):
 
     Return: List of tuples in the format: (train_folds, test_folds), being train_folds and test_folds a list of indexes
     '''
-
-    #Index list
-    idx_list = [idx for idx, value in enumerate(X)]
-
-    #List to numpy array
-    idx_list = np.array(idx_list)
-
-    #Shuffle
-    if shuffle:
-        random.seed(seed)
-        random.shuffle(idx_list)
     
     #Get stratificaded folds
-    folds = stratification(y, k)
+    folds = stratification(y, k, shuffle, seed)
 
     final_folds = []
 
