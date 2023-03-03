@@ -1,61 +1,53 @@
 import numpy as np
 import random
 
-def stratification(X,y,m,shuffle=True, seed=42):
+def stratification(y,m,shuffle=True,seed=42):
     
     '''
-    X: Training data, it can be a list or a numpy array of indexes
     y: Targets to be used in the stratification
     m: Number of folds
-    Return: List (index) of stratified m folders 
+
+    Return: Stratified m folders index list -> [[fold1],[fold2], ... ,[foldm]]
     '''
 
-    #Creating a list for every class
-
-    narrator_list = []
-    negative_list = []
-    neutral_list = []
-    positive_list = []
-
-    for i in X:
-        if y[i][0] == 1:
-            narrator_list.append(i)
-        if y[i][1] == 1:
-            negative_list.append(i)
-        if y[i][2] == 1:
-            neutral_list.append(i)
-        if y[i][3] == 1:
-            positive_list.append(i)
+    #y to string (key to dictionary)
+    y_str = []
+    for i in range(len(y)):
+        s = " ".join(str(e) for e in y[i])
+        y_str.append(s)
+        s = []
 
 
-    '''#Shuffle (senão sempre vai parcionar da mesma maneira) PRECISA FAZER?? TEM NO KFOLD.
-    if shuffle:
-        random.seed(seed)
-        random.shuffle(narrator_list)
-        random.shuffle(negative_list)
-        random.shuffle(neutral_list)
-        random.shuffle(positive_list)'''
+    d = {}
+
+    for i in range(len(y)):
+        if (y_str[i] in d):         #If key already in dictionary
+            d[y_str[i]].append(i)   #Put index on class list
+        else:
+            d[y_str[i]] = [i]       #Else create/start class list with first index
+
+    '''
+    #Visualizar o dicionário
+    for key, value in d.items():
+        print(key, ':', value)
+        print(len(value))
+    '''
     
-    #Spliting every class 
+    #Splits classes and shuffle
+    for key in d:
+        if shuffle:
+            random.seed(seed)
+            random.shuffle(d[key])
+        d[key] = np.array_split(d[key],m)
 
-    split_narrator = np.array_split(narrator_list,m)
-    split_negative = np.array_split(negative_list,m)
-    split_neutral = np.array_split(neutral_list,m)
-    split_positive = np.array_split(positive_list,m)
-
-    # Joining classes in stratified folders
-    final_list = []
+    #Joining classes: first split of every class make first fold and so on
+    folds_list = []
     one_fold = []
     
-    for k in range(m):
-        one_fold.extend(split_narrator[k])
-        one_fold.extend(split_negative[k])
-        one_fold.extend(split_neutral[k])
-        one_fold.extend(split_positive[k])
-        final_list.append(one_fold)
-        one_fold = []
+    for j in range(m):
+        for key in d:
+            one_fold.extend(d[key][j])
+        folds_list.append(one_fold)
+        one_fold = []   
 
-    #print("Lista final: ")
-    #print(final_list)
-    
-    return final_list
+    return folds_list
