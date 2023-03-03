@@ -26,7 +26,7 @@ def k_folds(k, X, y, shuffle=True, seed=42):
         random.shuffle(idx_list)
     
     #Get stratificaded folds
-    folds = stratification(idx_list, y, k)
+    folds = stratification(y, k)
 
     final_folds = []
 
