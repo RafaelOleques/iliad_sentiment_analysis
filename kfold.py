@@ -1,9 +1,7 @@
 import numpy as np
 import random
+from stratification import stratification
 
-#Dummy function
-def stratification(X, y, m):
-    return np.array_split(X, m)
 
 def k_folds(k, X, y, shuffle=True, seed=42):
     '''
@@ -42,7 +40,7 @@ def k_folds(k, X, y, shuffle=True, seed=42):
         train_fold = np.concatenate(folds_tuple, axis=None)
 
         #Saving
-        final_folds.append((train_fold.tolist(), test_fold.tolist()))
+        final_folds.append((train_fold, test_fold))
 
     return final_folds
 

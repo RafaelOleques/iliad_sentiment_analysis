@@ -7,7 +7,6 @@ def stratification(X,y,m,shuffle=True, seed=42):
     X: Training data, it can be a list or a numpy array of indexes
     y: Targets to be used in the stratification
     m: Number of folds
-
     Return: List (index) of stratified m folders 
     '''
 
