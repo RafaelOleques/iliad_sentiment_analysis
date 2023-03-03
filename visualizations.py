@@ -33,18 +33,31 @@ def compare_boxplot(dict_metrics, labels, width=20, height=5):
         scenarios = result[title]
 
         for idx_scenario, scenario in enumerate(scenarios):
-            fig, ax = plt.subplots(1, number_metrics, figsize=(width, height))
+            print("===>", number_metrics//2, 2)
+            fig, ax = plt.subplots(number_metrics//2, 2, figsize=(width, height))
             fig.suptitle(f"{title} utilizando {scenario}")
         
             metrics = scenarios[scenario]
+
+            line = 0
+            collum = 0
             for idx_metric, metric in enumerate(metrics):
                 results=[]
+
+                if idx_metric %2 == 0 and idx_metric != 0:
+                    line += 1
+                    collum = 0
+
+
+                print(line, idx_metric)
 
                 for values in metrics[metric]:
                     results.append(values)
 
-                ax[idx_metric].set_ylim(bottom=0, top=100)
+                ax[line][collum].set_ylim(bottom=0, top=100)
                 print(idx_scenario, idx_metric, results)
-                ax[idx_metric].boxplot(results, labels=labels, showmeans=True)
+                ax[line][collum].boxplot(results, labels=labels, showmeans=True)
         
-                ax[idx_metric].set_title(metric)
+                ax[line][collum].set_title(metric)
+
+                collum += 1
