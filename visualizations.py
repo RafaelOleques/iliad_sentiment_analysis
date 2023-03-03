@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-def compare_boxplot(dict_metrics, labels, width=22, height=10):
+def compare_boxplot(dict_metrics, labels, width=20, height=5):
     plots = []
     result = {}
     
@@ -23,21 +23,19 @@ def compare_boxplot(dict_metrics, labels, width=22, height=10):
                         result[model][scenario][metric].append(dict_metrics[model][scenario][data_operation][metric])
     
     for title in result:
-        number_type_trainers = len(result[title])
+        #number_type_trainers = len(result[title])
 
         firts_key = list(result[title].keys())[0]
         number_metrics = len(result[title][firts_key])
 
-        print(number_type_trainers, number_metrics)
-        
-        fig, ax = plt.subplots(number_type_trainers, number_metrics, figsize=(width, height))
-        print(ax.shape)
-        fig.suptitle(title)
-        print(title)
+        #print(number_type_trainers, number_metrics)
 
         scenarios = result[title]
 
         for idx_scenario, scenario in enumerate(scenarios):
+            fig, ax = plt.subplots(1, number_metrics, figsize=(width, height))
+            fig.suptitle(f"{title} utilizando {scenario}")
+        
             metrics = scenarios[scenario]
             for idx_metric, metric in enumerate(metrics):
                 results=[]
@@ -45,8 +43,8 @@ def compare_boxplot(dict_metrics, labels, width=22, height=10):
                 for values in metrics[metric]:
                     results.append(values)
 
-                #ax[idx_scenario][idx_metric].set_ylim(bottom=0, top=100)
+                ax[idx_metric].set_ylim(bottom=0, top=100)
                 print(idx_scenario, idx_metric, results)
-                ax[idx_scenario][idx_metric].boxplot(results, labels=labels, showmeans=True)
+                ax[idx_metric].boxplot(results, labels=labels, showmeans=True)
         
-                ax[idx_scenario][idx_metric].set_title(metric)
+                ax[idx_metric].set_title(metric)
