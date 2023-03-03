@@ -2,16 +2,26 @@ import pandas as pd
 import matplotlib.pyplot as plt # para visualização de informações
 import seaborn as sns
 
-def confusion_matrix(y_true, y_pred, categories):
+def confusion_matrix(y_true, y_pred):
     # Build matrix
-    categories = list(categories[0])
-    matrix = [[]] * len(categories)
-    for i in range(len(categories)):
-        matrix[i] = [0] * len(categories)
-    
+    matrix = [[]] * len(y_true[0])
+    for i in range(len(y_true[0])):
+        matrix[i] = [0] * len(y_true[0])
+
     # Calculate matirx
     for i in range(len(y_true)):
-        matrix[categories.index(y_true[i])][categories.index(y_pred[i])] += 1
+        tr = y_true[i] 
+        pred = y_pred[i]
+        j = np.where(tr == 1)[0][0]
+        k = np.where(pred == 1)[0]
+        if not k:
+            if (j + 1) < len(y_true[0]):
+                k = j + 1
+            else:
+                k = j - 1
+        else:
+            k = k[0]
+        matrix[j][k] += 1
 
     return matrix
     
