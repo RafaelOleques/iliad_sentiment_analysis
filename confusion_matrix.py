@@ -15,7 +15,7 @@ def build_matrix(y_true, y_pred):
         pred = y_pred[i]
         j = np.where(tr == 1)[0][0]
         k = np.where(pred == 1)[0]
-        if not k:
+        if len(k) == 0:
             if (j + 1) < len(y_true[0]):
                 k = j + 1
             else:
@@ -25,9 +25,8 @@ def build_matrix(y_true, y_pred):
         matrix[j][k] += 1
 
     return matrix
-    
+
 def plot_confusion_matrix(confusion_matrix, categories):
     df_cm = pd.DataFrame(confusion_matrix, index = [i for i in categories], columns = [i for i in categories])
     plt.figure(figsize = (10,7))
     sns.heatmap(df_cm, annot=True)
-
