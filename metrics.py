@@ -21,7 +21,7 @@ def accuracy_score(confusion_matrix):
     return accuracy
 
 def error_rate(confusion_matrix):
-    err = 1 - accuracy(confusion_matrix)
+    err = 1 - accuracy_score(confusion_matrix)
     
     return err
 
