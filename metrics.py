@@ -7,7 +7,7 @@ def list_mean(lst):
     
     return mean
 
-def accuracy(confusion_matrix):
+def accuracy_score(confusion_matrix):
     total = 0
     true_values = 0
     for i in range(len(confusion_matrix)):
@@ -65,7 +65,7 @@ def individual_specificity_list(confusion_matrix):
     cols = [0] * len(confusion_matrix)
     vn = [0] * len(confusion_matrix)
     for i in range(len(confusion_matrix)):
-        for j in range(len(confusion_matrix[i])):
+        for j in range(len(confusion_matrix)):
             total += confusion_matrix[i][j]
             cols[j] += confusion_matrix[i][j]
             vn[i] -= confusion_matrix[i][j]
