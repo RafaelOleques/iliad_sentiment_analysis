@@ -23,7 +23,7 @@ def list_mean(lst):
     
     return mean
     
-def accuracy(confusion_matrix):
+def accuracy_score(confusion_matrix):
     total = 0
     true_values = 0
     for i in range(len(confusion_matrix)):
@@ -49,7 +49,8 @@ def individual_precision_list(confusion_matrix):
     
     individual_precision = [0] * len(confusion_matrix)
     for i in range(len(confusion_matrix)):
-        individual_precision[i] = confusion_matrix[i][i] / cols[i]
+        if not cols[i] == 0:
+            individual_precision[i] = confusion_matrix[i][i] / cols[i]
         
     return individual_precision
 
@@ -66,7 +67,8 @@ def individual_recall_list(confusion_matrix):
 
     individual_recall = [0] * len(confusion_matrix)
     for i in range(len(confusion_matrix)):
-        individual_recall[i] = confusion_matrix[i][i] / lines[i]    
+        if not lines[i] == 0:
+            individual_recall[i] = confusion_matrix[i][i] / lines[i]    
     
     return individual_recall
 
@@ -102,3 +104,9 @@ def macro_specificity(confusion_matrix):
     
     return specificity
 
+def f1_score(confusion_matrix):
+    prec = macro_precision(confusion_matrix)
+    recall = macro_recall(confusion_matrix)
+    score = (2 * prec * recall) / (prec + recall)
+
+    return score

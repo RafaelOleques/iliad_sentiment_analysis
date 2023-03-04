@@ -14,11 +14,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import spacy
 from spacy.lang.el.examples import sentences 
 
-#Metrics => MUDAR PARA AS NOSSAS
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import recall_score
-from sklearn.metrics import precision_score
-from sklearn.metrics import f1_score
+#Metrics
+from confusion_matrix import build_matrix
+from metrics import accuracy_score, macro_recall, macro_precision, macro_specificity, f1_score
 
 #sbert
 from sentence_transformers import SentenceTransformer
@@ -153,6 +151,7 @@ class Trainer:
         accuracy_list = []
         recall_list = []
         precision_list = []
+        spec_list = []
         f1_list = []
 
         folds = k_folds(X=self.X, y=self.y, k=nro_folds, shuffle=shuffle, seed=seed)
@@ -163,7 +162,6 @@ class Trainer:
             X_test, y_test =  test_values(self.X, self.y, test_fold)
             
             #Model
-
             if self.use_pipeline:
                 model_pipeline = Pipeline([
                 ('vect', TfidfVectorizer(stop_words=self.stopwords)),
@@ -174,22 +172,27 @@ class Trainer:
 
             model_pipeline.fit(X_train, y_train)
             predicted = model_pipeline.predict(X_test)
-
-            accuracy = accuracy_score(y_test, predicted, normalize=False)
-            recall = recall_score(y_test, predicted, average='macro') * 100
-            precision = precision_score(y_test, predicted, average='macro') * 100
-            f1 = f1_score(y_test, predicted, average='macro') * 100
+            
+            cm = build_matrix(y_test, predicted)
+            
+            accuracy = accuracy_score(cm)
+            recall = macro_recall(cm)
+            precision = macro_precision(cm)
+            spec = macro_specificity(cm)
+            f1 = f1_score(cm)
             
             accuracy_list.append(accuracy)
             recall_list.append(recall)
             precision_list.append(precision)
             f1_list.append(f1)
+            spec_list.append(spec)
 
         metrics = {}
 
         metrics["accuracy"] = accuracy_list
         metrics["recall"] = recall_list
         metrics["precision"] = precision_list
+        metrics["especificity"] = spec_list
         metrics["f1"] = f1_list
 
         return metrics

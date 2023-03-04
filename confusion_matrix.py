@@ -1,8 +1,9 @@
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt # para visualização de informações
 import seaborn as sns
 
-def confusion_matrix(y_true, y_pred):
+def build_matrix(y_true, y_pred):
     # Build matrix
     matrix = [[]] * len(y_true[0])
     for i in range(len(y_true[0])):
