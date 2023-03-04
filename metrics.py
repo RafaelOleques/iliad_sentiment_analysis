@@ -7,7 +7,7 @@ def list_mean(lst):
     
     return mean
 
-def accuracy(confusion_matrix):
+def accuracy_score(confusion_matrix):
     total = 0
     true_values = 0
     for i in range(len(confusion_matrix)):
@@ -21,7 +21,7 @@ def accuracy(confusion_matrix):
     return accuracy
 
 def error_rate(confusion_matrix):
-    err = 1 - accuracy(confusion_matrix)
+    err = 1 - accuracy_score(confusion_matrix)
     
     return err
 
