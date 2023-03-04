@@ -34,12 +34,12 @@ def accuracy_score(confusion_matrix):
 
     accuracy = true_values / total
     
-    return accuracy
+    return accuracy * 100
 
 def error_rate(confusion_matrix):
-    err = 1 - accuracy(confusion_matrix)
+    err = 1 - accuracy_score(confusion_matrix)
     
-    return err
+    return err * 100
 
 def individual_precision_list(confusion_matrix):
     cols = [0] * len(confusion_matrix)
@@ -52,12 +52,12 @@ def individual_precision_list(confusion_matrix):
         if not cols[i] == 0:
             individual_precision[i] = confusion_matrix[i][i] / cols[i]
         
-    return individual_precision
+    return individual_precision * 100
 
 def macro_precision(confusion_matrix):
     precision = list_mean(individual_precision_list(confusion_matrix))
     
-    return precision
+    return precision * 100
 
 def individual_recall_list(confusion_matrix):
     lines = [0] * len(confusion_matrix)
@@ -70,12 +70,12 @@ def individual_recall_list(confusion_matrix):
         if not lines[i] == 0:
             individual_recall[i] = confusion_matrix[i][i] / lines[i]    
     
-    return individual_recall
+    return individual_recall * 100
 
 def macro_recall(confusion_matrix):
     recall = list_mean(individual_recall_list(confusion_matrix))
     
-    return recall
+    return recall * 100
     
 def individual_specificity_list(confusion_matrix):
     total = 0
@@ -97,16 +97,16 @@ def individual_specificity_list(confusion_matrix):
     for i in range(len(confusion_matrix)):
         individual_specificity[i] = vn[i] / (cols[i] - confusion_matrix[i][i] + vn[i])
     
-    return individual_specificity
+    return individual_specificity * 100
 
 def macro_specificity(confusion_matrix):
     specificity = list_mean(individual_specificity_list(confusion_matrix))
     
-    return specificity
+    return specificity * 100
 
 def f1_score(confusion_matrix):
     prec = macro_precision(confusion_matrix)
     recall = macro_recall(confusion_matrix)
     score = (2 * prec * recall) / (prec + recall)
 
-    return score
+    return score 

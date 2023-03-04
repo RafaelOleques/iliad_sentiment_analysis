@@ -5,3 +5,10 @@ __pycache__/kfold.cpython-39.pyc
 .ipynb_checkpoints/Iliad - sentiment analysis-checkpoint
 .ipynb_checkpoints/Iliad - sentiment analysis-checkpoint.ipynb
 .ipynb_checkpoints/SBERT-checkpoint.ipynb
+__pycache__/confusion_matrix.cpython-38.pyc
+__pycache__/confusion_matrix.cpython-38.pyc
+__pycache__/visualizations.cpython-38.pyc
+__pycache__/trainer.cpython-38.pyc
+__pycache__/metrics.cpython-38.pyc
+__pycache__/stratification.cpython-38.pyc
+__pycache__/kfold.cpython-38.pyc
