@@ -15,14 +15,8 @@ def build_matrix(y_true, y_pred):
         pred = y_pred[i]
         j = np.where(tr == 1)[0][0]
         k = np.where(pred == 1)[0]
-        if len(k) == 0:
-            if (j + 1) < len(y_true[0]):
-                k = j + 1
-            else:
-                k = j - 1
-        else:
-            k = k[0]
-        matrix[j][k] += 1
+        if not len(k) == 0:
+            matrix[j][k[0]] += 1
 
     return matrix
 
