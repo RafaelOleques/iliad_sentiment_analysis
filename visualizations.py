@@ -44,7 +44,7 @@ def compare_boxplot(dict_metrics, labels, width=20, height=5):
                 for values in metrics[metric]:
                     results.append(values)
 
-                ax[line][collum].set_ylim(bottom=0, top=100)
+                ax[line][collum].set_ylim(bottom=0, top=1)
                 ax[line][collum].boxplot(results, labels=labels, showmeans=True)
                 ax[line][collum].set_title(metric)
 
